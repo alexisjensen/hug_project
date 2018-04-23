@@ -1,0 +1,169 @@
+{% extends 'hug/base.html' %}
+{% load static %}
+
+
+{% block title %}huggable center of love no. {{parkId}}{% endblock %}
+
+{% block body_block %}
+
+
+<!--javascript for displaying map-->
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvEzQlFFbzlZGS2LvkKnp9Nbpd9syZhtk">
+</script>
+
+
+<script type="text/javascript">
+      function initialize() {
+        var mapOptions = {
+          center: { lat: {{lat}}, lng: {{lon}}},
+          zoom: 17
+        };
+        var map = new google.maps.Map(document.getElementById('map-canvas-tree'),
+            mapOptions);
+      var point = new google.maps.LatLng({{lat}},{{lon}});
+        var image = '{{ MEDIA_URL }}/center.png';
+
+
+        var marker = new google.maps.Marker({
+         position: point,
+            map: map,
+            category: '{{neighbourhood}}',
+            url: 'http://cehermans.pythonanywhere.com/hug/park/' + '{{parkId}}',
+         title: '{{name}}',
+         icon: image
+        });
+
+
+      }
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+
+
+
+
+
+
+</script>
+
+
+<!-- begin map and panel -->
+<div class="row">
+
+
+    <!--display map-->
+    <div class="col-lg-7 col-md-7 col-sm-6 col-lg-push-5 col-push-md col-sm-push-5">
+        <div class="tree-map">
+            <div id="map-canvas-tree"></div>
+            <p class="tweet"><a href="https://twitter.com/share" class="twitter-share-button"
+                                data-url="http://cehermans.pythonanywhere.com/hug/park/{{parkId}}"
+                                data-text="I just hugged center of love no. {{parkId}}!" data-hashtags="treelove">Tweet</a></p>
+            <script>
+            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+
+
+
+
+
+            </script>
+        </div>
+    </div>
+    <!--display panel-->
+    <div class="col-lg-5 col-md-5 col-sm-5 col-lg-pull-7 col-md-pull-7 col-sm-pull-6">
+        <div class="panel panel-default tree">
+            <div class="panel-body">
+
+
+                <h1 class="tree"> {{ name|title }}
+                    <small>is a center of love</small>
+                </h1>
+
+                <p class="tree">{{ address|title }}</p>
+
+                <p class="tree">{{ neighbourhood|title }}</p>
+
+
+                {% if park in parkss %}
+                <p><a href="{% url 'delete_favp' entry_pk=park.parkId %}"
+                                   class="btn btn-sm btn-default tree"><span
+                        class="glyphicon glyphicon-heart pink"></span></a>
+
+
+                    <a href="{% url 'add_photop' parkId=park.parkId %}" class="btn btn-sm btn-default tree text-center">
+                        +
+                        <span class="glyphicon glyphicon-tree-conifer green"></span> <span
+                            class="glyphicon glyphicon-camera"></span></a>
+
+                </p>
+
+                {% else %}
+
+                <p><a href="{% url 'add_favp' entry_pk=park.parkId %}" class="btn btn-sm btn-default tree"><span
+                        class="glyphicon glyphicon-heart-empty pink"></span></a>
+
+
+                    <a href="{% url 'add_photop' parkId=park.parkId %}" class="btn btn-sm btn-default tree text-center">
+                        +
+                        <span class="glyphicon glyphicon-tree-conifer green"></span> <span
+                            class="glyphicon glyphicon-camera"></span></a>
+
+
+                </p>
+
+
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end map and panel -->
+
+
+<!-- begin gallery -->
+<div class="row">
+    <div class="col-xs-10 col-sm-10 col-md-9 col-lg-9 col-xs-offset-1 col-s-offset-1">
+        <div class="gallery">
+
+
+            {% for photo in photop %}
+                {% if photo.approved %}
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                    <img class="img-thumbnail img-responsive tree" src="{{photo.picture.url}}" alt="tree picture"/>
+
+                    <div class="caption">
+                        <p class="tree caption">{{ photo.comm }}</p>
+
+                        <p class="tree caption">
+                            {% for tag in photo.tags.all %}
+                            <a href="/hug/tag/{{ tag }}">#{{ tag }}</a>
+                            {% endfor %}
+                            </p>
+                    </div>
+                {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+<!-- end gallery -->
+
+
+<!-- begin htmlcommentbox.com -->
+<div class="row">
+    <div class="col-xs-10 col-sm-10 col-md-9 col-lg-9 col-xs-offset-1 col-s-offset-1">
+        <div class="comment" id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Form</a> is loading
+            comments...
+        </div>
+        <link rel="stylesheet" type="text/css"
+              href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0"/>
+        <script type="text/javascript" id="hcb">
+             /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=(""+window.location).replace(/'/g,"%27") || hcb_user.PAGE, h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24UCOX%2FW4u1im24GR%2F2JVzh0"+"&opts=16862&num=10");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/
+
+
+
+
+        </script>
+    </div>
+</div>
+<!-- end htmlcommentbox.com -->
+{% endblock %}

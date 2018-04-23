@@ -1,0 +1,34 @@
+{% extends "hug/base.html" %}
+{% load staticfiles %}
+
+
+{% block title %}profile{% endblock %}
+
+{% block body_block %}
+
+<div class="row">
+    <div class="col-xs-8 col-sm-8 col-md-6 col-lg-6 col-xs-pull-1 col-xs-push-1">
+
+<h1 class="profile"> profile </h1>
+
+
+{% if user.userprofile.picture %}
+
+
+<div class="row">
+    <div class="col-xs-8 col-sm-8 col-md-6 col-lg-6">
+
+            <img class="img-thumbnail img-responsive" src="{{ user.userprofile.picture.url }}" alt="Profile Picture"/>
+
+
+    </div>
+</div>
+<br/>
+{% endif %}
+<p class="profile">{{ user.first_name|lower }} {{ user.last_name|lower}}</p>
+<p class="profile">{{ user.username|lower}}</p>
+<p class="profile">{{ user.email|lower }}</p>
+
+</div>
+    </div>
+{% endblock %}

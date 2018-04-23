@@ -1,0 +1,53 @@
+{% extends 'hug/base.html' %}
+{% load bootstrap3 %}
+
+{% block title %}register{% endblock %}
+
+
+{% block body_block %}
+
+{% if registered %}
+
+<div class="row">
+    <div class="form-group col-xs-8 col-sm-8 col-md-6 col-lg-6 col-xs-offset-1 col-s-offset-1">
+        <h4 class="default">thank you for registering!</h4>
+
+        <p><a href="/hug/login/">login</a> when you are ready to hug.</p>
+    </div>
+</div>
+{% else %}
+
+{# Display a form #}
+
+
+<form id="user_form" method="post" action="/hug/register/"
+      enctype="multipart/form-data">
+
+
+    {% csrf_token %}
+    <div class="row">
+        <div class="form-group col-xs-10 col-sm-10 col-md-6 col-lg-6 col-xs-offset-1 col-s-offset-1">
+           <h1 class="register">register to love a tree</h1>
+            <div class="register">
+
+                <!--displays django user model attributes-->
+                {% bootstrap_form user_form layout=layout %}
+
+
+                <!--displays user_profile model attributes-->
+                {% bootstrap_form profile_form layout=layout %}
+
+
+                <!-- Provide a button to click to submit the form. -->
+                <button class="btn btn-default register" type="submit" value="Submit"/>
+                register</button>
+            </div>
+        </div>
+    </div>
+
+</form>
+
+{% endif %}
+
+
+{% endblock %}

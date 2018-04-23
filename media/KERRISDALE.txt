@@ -1,0 +1,6462 @@
+{
+"trees": [ 
+{
+	"commonName": "AUTUMN BLAZE RED MAPLE",
+	"diameter": 5.5,
+	"lat": 49.2147916,
+	"lon": -123.1493958,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 62ND AV",
+	"streetNumber": 1816,
+	"treeId": 201
+},
+{
+	"commonName": "MAGNOLIA WADA'S MEMORY ",
+	"diameter": 3.0,
+	"lat": 49.2240188,
+	"lon": -123.1449903,
+	"neighbourhood": "KERRISDALE",
+	"street": "MARGUERITE ST",
+	"streetNumber": 6808,
+	"treeId": 652
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 3.0,
+	"lat": 49.2240188,
+	"lon": -123.1449903,
+	"neighbourhood": "KERRISDALE",
+	"street": "MARGUERITE ST",
+	"streetNumber": 6808,
+	"treeId": 740
+},
+{
+	"commonName": "MAGNOLIA GALAXY",
+	"diameter": 3.0,
+	"lat": 49.2244949,
+	"lon": -123.1423182,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6767,
+	"treeId": 743
+},
+{
+	"commonName": "AUTUMN BLAZE RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2317558,
+	"lon": -123.1467414,
+	"neighbourhood": "KERRISDALE",
+	"street": "WILTSHIRE ST",
+	"streetNumber": 5987,
+	"treeId": 745
+},
+{
+	"commonName": "MAGNOLIA APOLLO",
+	"diameter": 3.0,
+	"lat": 49.2222809,
+	"lon": -123.1417343,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6968,
+	"treeId": 746
+},
+{
+	"commonName": "MAGNOLIA APOLLO",
+	"diameter": 3.0,
+	"lat": 49.223403,
+	"lon": -123.1416935,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6868,
+	"treeId": 747
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 3.0,
+	"lat": 49.2235405,
+	"lon": -123.1413486,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6842,
+	"treeId": 748
+},
+{
+	"commonName": "MAGNOLIA APOLLO",
+	"diameter": 3.0,
+	"lat": 49.2260628,
+	"lon": -123.1412764,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6588,
+	"treeId": 750
+},
+{
+	"commonName": "SHIROFUGEN CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2106299,
+	"lon": -123.1546573,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 75TH AV",
+	"streetNumber": 1890,
+	"treeId": 752
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2078552,
+	"lon": -123.1499468,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 75TH AV",
+	"streetNumber": 1790,
+	"treeId": 760
+},
+{
+	"commonName": "ENGLISH OAK",
+	"diameter": 18.5,
+	"lat": 49.2277474,
+	"lon": -123.1712861,
+	"neighbourhood": "KERRISDALE",
+	"street": "CEDARHURST ST",
+	"streetNumber": 6490,
+	"treeId": 1002
+},
+{
+	"commonName": "PIN OAK",
+	"diameter": 3.0,
+	"lat": 49.2232772,
+	"lon": -123.1491711,
+	"neighbourhood": "KERRISDALE",
+	"street": "CYPRESS ST",
+	"streetNumber": 6876,
+	"treeId": 1079
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 8.0,
+	"lat": 49.228884,
+	"lon": -123.1762791,
+	"neighbourhood": "KERRISDALE",
+	"street": "SW MARINE DRIVE",
+	"streetNumber": 3210,
+	"treeId": 1647
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 10.0,
+	"lat": 49.228884,
+	"lon": -123.1762791,
+	"neighbourhood": "KERRISDALE",
+	"street": "SW MARINE DRIVE",
+	"streetNumber": 3210,
+	"treeId": 1648
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 20.0,
+	"lat": 49.2272785,
+	"lon": -123.1420147,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1603,
+	"treeId": 2310
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 9.0,
+	"lat": 49.2275956,
+	"lon": -123.160887,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2349,
+	"treeId": 2311
+},
+{
+	"commonName": "AUSTRIAN PINE",
+	"diameter": 18.5,
+	"lat": 49.2227349,
+	"lon": -123.1578033,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 2188,
+	"treeId": 2619
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 14.0,
+	"lat": 49.2227349,
+	"lon": -123.1578033,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 2188,
+	"treeId": 2625
+},
+{
+	"commonName": "SPANISH CHESTNUT",
+	"diameter": 28.0,
+	"lat": 49.2316924,
+	"lon": -123.1678332,
+	"neighbourhood": "KERRISDALE",
+	"street": "MACDONALD ST",
+	"streetNumber": 6011,
+	"treeId": 4207
+},
+{
+	"commonName": "ENGLISH OAK",
+	"diameter": 24.0,
+	"lat": 49.2316924,
+	"lon": -123.1678332,
+	"neighbourhood": "KERRISDALE",
+	"street": "MACDONALD ST",
+	"streetNumber": 6011,
+	"treeId": 4230
+},
+{
+	"commonName": "AMERICAN FILBERT",
+	"diameter": 4.0,
+	"lat": 49.2228177,
+	"lon": -123.1738541,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 3020,
+	"treeId": 5144
+},
+{
+	"commonName": "WEEPING WILLOW",
+	"diameter": 14.0,
+	"lat": 49.2228177,
+	"lon": -123.1738541,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 3020,
+	"treeId": 5145
+},
+{
+	"commonName": "ENGLISH HAWTHORN",
+	"diameter": 3.0,
+	"lat": 49.2228196,
+	"lon": -123.1752474,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 3160,
+	"treeId": 5157
+},
+{
+	"commonName": "JAPANESE FLOWERING CRABAPPLE",
+	"diameter": 10.0,
+	"lat": 49.2228196,
+	"lon": -123.1752474,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 3160,
+	"treeId": 5158
+},
+{
+	"commonName": "VANESSA PERSIAN IRONWOOD",
+	"diameter": 3.0,
+	"lat": 49.2314869,
+	"lon": -123.1676434,
+	"neighbourhood": "KERRISDALE",
+	"street": "MACDONALD ST",
+	"streetNumber": 6037,
+	"treeId": 5509
+},
+{
+	"commonName": "VANESSA PERSIAN IRONWOOD",
+	"diameter": 3.0,
+	"lat": 49.2314869,
+	"lon": -123.1676434,
+	"neighbourhood": "KERRISDALE",
+	"street": "MACDONALD ST",
+	"streetNumber": 6037,
+	"treeId": 5518
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 4.6,
+	"lat": 49.2180504,
+	"lon": -123.1522327,
+	"neighbourhood": "KERRISDALE",
+	"street": "MAPLE ST",
+	"streetNumber": 7408,
+	"treeId": 5569
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2281922,
+	"lon": -123.1765772,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3230,
+	"treeId": 5716
+},
+{
+	"commonName": "JAPANESE SNOWBELL",
+	"diameter": 3.0,
+	"lat": 49.2296551,
+	"lon": -123.1785754,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 6250,
+	"treeId": 5719
+},
+{
+	"commonName": "PURPLE HAZE JAPANESE PLUM",
+	"diameter": 3.0,
+	"lat": 49.2296551,
+	"lon": -123.1785754,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 6250,
+	"treeId": 5720
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2283379,
+	"lon": -123.1784909,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3296,
+	"treeId": 5723
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2283959,
+	"lon": -123.1781239,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3290,
+	"treeId": 5724
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 4.5,
+	"lat": 49.2173158,
+	"lon": -123.1522335,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 60TH AV",
+	"streetNumber": 1975,
+	"treeId": 6197
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2283959,
+	"lon": -123.1781239,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3290,
+	"treeId": 6720
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2281744,
+	"lon": -123.1779575,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3280,
+	"treeId": 6729
+},
+{
+	"commonName": "DOUGLAS FIR",
+	"diameter": 38.0,
+	"lat": 49.2318602,
+	"lon": -123.165388,
+	"neighbourhood": "KERRISDALE",
+	"street": "TRAFALGAR ST",
+	"streetNumber": 6008,
+	"treeId": 6778
+},
+{
+	"commonName": "BLACK LOCUST",
+	"diameter": 36.0,
+	"lat": 49.2341479,
+	"lon": -123.1432468,
+	"neighbourhood": "KERRISDALE",
+	"street": "ADERA ST",
+	"streetNumber": 5718,
+	"treeId": 6792
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 12.0,
+	"lat": 49.2341479,
+	"lon": -123.1432468,
+	"neighbourhood": "KERRISDALE",
+	"street": "ADERA ST",
+	"streetNumber": 5718,
+	"treeId": 6848
+},
+{
+	"commonName": "KATSURA TREE",
+	"diameter": 3.0,
+	"lat": 49.2259379,
+	"lon": -123.1527247,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2025,
+	"treeId": 7550
+},
+{
+	"commonName": "MAGNOLIA SPECIES",
+	"diameter": 2.0,
+	"lat": 49.2219448,
+	"lon": -123.142216,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6983,
+	"treeId": 7637
+},
+{
+	"commonName": "MAGNOLIA SPECIES",
+	"diameter": 2.0,
+	"lat": 49.2219448,
+	"lon": -123.142216,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6983,
+	"treeId": 7638
+},
+{
+	"commonName": "SHUBERT RED CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2286078,
+	"lon": -123.17764,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3269,
+	"treeId": 7907
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2281685,
+	"lon": -123.1774074,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3260,
+	"treeId": 7909
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2283983,
+	"lon": -123.1771442,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3250,
+	"treeId": 7913
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2283983,
+	"lon": -123.1771442,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3250,
+	"treeId": 7914
+},
+{
+	"commonName": "APPLE SERVICEBERRY",
+	"diameter": 3.0,
+	"lat": 49.2281922,
+	"lon": -123.1765772,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3230,
+	"treeId": 7918
+},
+{
+	"commonName": "SHUBERT RED CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2286581,
+	"lon": -123.1766035,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3231,
+	"treeId": 7921
+},
+{
+	"commonName": "NIGHT PURPLE LEAF PLUM",
+	"diameter": 3.0,
+	"lat": 49.230119,
+	"lon": -123.178547,
+	"neighbourhood": "KERRISDALE",
+	"street": "SW MARINE DRIVE",
+	"streetNumber": 3289,
+	"treeId": 10277
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 3.0,
+	"lat": 49.2301664,
+	"lon": -123.1729897,
+	"neighbourhood": "KERRISDALE",
+	"street": "CARNARVON ST",
+	"streetNumber": 6184,
+	"treeId": 13343
+},
+{
+	"commonName": "AKEBONO FLOWERING CHERRY",
+	"diameter": 3.5,
+	"lat": 49.2221382,
+	"lon": -123.1448115,
+	"neighbourhood": "KERRISDALE",
+	"street": "MARGUERITE ST",
+	"streetNumber": 6988,
+	"treeId": 14559
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2257313,
+	"lon": -123.1592952,
+	"neighbourhood": "KERRISDALE",
+	"street": "YEW ST",
+	"streetNumber": 6647,
+	"treeId": 14561
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2260231,
+	"lon": -123.1587534,
+	"neighbourhood": "KERRISDALE",
+	"street": "YEW ST",
+	"streetNumber": 6610,
+	"treeId": 14562
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2299574,
+	"lon": -123.1617127,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALSAM ST",
+	"streetNumber": 6207,
+	"treeId": 14586
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2298731,
+	"lon": -123.1619315,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALSAM ST",
+	"streetNumber": 6225,
+	"treeId": 14587
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2303173,
+	"lon": -123.1611262,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALSAM ST",
+	"streetNumber": 6138,
+	"treeId": 14637
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.21746,
+	"lon": -123.1521463,
+	"neighbourhood": "KERRISDALE",
+	"street": "MAPLE ST",
+	"streetNumber": 7488,
+	"treeId": 14850
+},
+{
+	"commonName": "AUTUMN FLAME RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2176134,
+	"lon": -123.1521275,
+	"neighbourhood": "KERRISDALE",
+	"street": "MAPLE ST",
+	"streetNumber": 7458,
+	"treeId": 14851
+},
+{
+	"commonName": "WASHINGTON HAWTHORN",
+	"diameter": 3.0,
+	"lat": 49.2278162,
+	"lon": -123.1598073,
+	"neighbourhood": "KERRISDALE",
+	"street": "VINE ST",
+	"streetNumber": 6468,
+	"treeId": 15481
+},
+{
+	"commonName": "WASHINGTON HAWTHORN",
+	"diameter": 3.0,
+	"lat": 49.2279289,
+	"lon": -123.1600375,
+	"neighbourhood": "KERRISDALE",
+	"street": "VINE ST",
+	"streetNumber": 6450,
+	"treeId": 15486
+},
+{
+	"commonName": "AUSTRIAN PINE",
+	"diameter": 9.0,
+	"lat": 49.2120605,
+	"lon": -123.1542999,
+	"neighbourhood": "KERRISDALE",
+	"street": "TIDEWATER PLACE",
+	"streetNumber": 8335,
+	"treeId": 17778
+},
+{
+	"commonName": "JAPANESE SNOWBELL",
+	"diameter": 3.0,
+	"lat": 49.2281386,
+	"lon": -123.1755187,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3184,
+	"treeId": 18617
+},
+{
+	"commonName": "SHUBERT RED CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2281386,
+	"lon": -123.1755187,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3184,
+	"treeId": 18618
+},
+{
+	"commonName": "SHUBERT RED CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2283426,
+	"lon": -123.1753354,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3174,
+	"treeId": 19101
+},
+{
+	"commonName": "SHUBERT RED CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2280879,
+	"lon": -123.1751331,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3136,
+	"treeId": 19312
+},
+{
+	"commonName": "SHUBERT RED CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2280852,
+	"lon": -123.1748303,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3112,
+	"treeId": 19970
+},
+{
+	"commonName": "NIGHT PURPLE LEAF PLUM",
+	"diameter": 3.0,
+	"lat": 49.2284246,
+	"lon": -123.1759185,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALACLAVA ST",
+	"streetNumber": 6475,
+	"treeId": 19976
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 10.0,
+	"lat": 49.2062371,
+	"lon": -123.1459669,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 75TH AV",
+	"streetNumber": 1691,
+	"treeId": 19985
+},
+{
+	"commonName": "DOUGLAS FIR",
+	"diameter": 33.0,
+	"lat": 49.2317968,
+	"lon": -123.1691118,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2856,
+	"treeId": 22967
+},
+{
+	"commonName": "JAPANESE SNOWBELL",
+	"diameter": 3.0,
+	"lat": 49.2277634,
+	"lon": -123.1756975,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALACLAVA ST",
+	"streetNumber": 6456,
+	"treeId": 24979
+},
+{
+	"commonName": "JAPANESE SNOWBELL",
+	"diameter": 3.0,
+	"lat": 49.2284246,
+	"lon": -123.1759185,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALACLAVA ST",
+	"streetNumber": 6465,
+	"treeId": 24982
+},
+{
+	"commonName": "REDBUD CRABAPPLE",
+	"diameter": 3.0,
+	"lat": 49.2304733,
+	"lon": -123.1691798,
+	"neighbourhood": "KERRISDALE",
+	"street": "MCCLEERY ST",
+	"streetNumber": 6161,
+	"treeId": 25019
+},
+{
+	"commonName": "PACIFIC SUNSET MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2219896,
+	"lon": -123.1494473,
+	"neighbourhood": "KERRISDALE",
+	"street": "CYPRESS ST",
+	"streetNumber": 6996,
+	"treeId": 26166
+},
+{
+	"commonName": "JAPANESE SNOWBELL",
+	"diameter": 3.0,
+	"lat": 49.2259523,
+	"lon": -123.1780977,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 6630,
+	"treeId": 26805
+},
+{
+	"commonName": "ENGLISH OAK",
+	"diameter": 18.0,
+	"lat": 49.2246509,
+	"lon": -123.1476349,
+	"neighbourhood": "KERRISDALE",
+	"street": "ANGUS DRIVE",
+	"streetNumber": 6708,
+	"treeId": 33861
+},
+{
+	"commonName": "AKEBONO FLOWERING CHERRY",
+	"diameter": 9.5,
+	"lat": 49.2324013,
+	"lon": -123.1524311,
+	"neighbourhood": "KERRISDALE",
+	"street": "MAPLE ST",
+	"streetNumber": 5959,
+	"treeId": 34123
+},
+{
+	"commonName": "REDBUD CRABAPPLE",
+	"diameter": 3.5,
+	"lat": 49.2315226,
+	"lon": -123.1519306,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1996,
+	"treeId": 34124
+},
+{
+	"commonName": "JAPANESE MAPLE",
+	"diameter": 10.0,
+	"lat": 49.214261,
+	"lon": -123.1510338,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 63RD AV",
+	"streetNumber": 1891,
+	"treeId": 34129
+},
+{
+	"commonName": "FLOWERING DOGWOOD",
+	"diameter": 3.0,
+	"lat": 49.227732,
+	"lon": -123.1784215,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 6476,
+	"treeId": 34164
+},
+{
+	"commonName": "AMERICAN ELM",
+	"diameter": 22.5,
+	"lat": 49.2341216,
+	"lon": -123.1409507,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 1576,
+	"treeId": 38750
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 10.5,
+	"lat": 49.2342726,
+	"lon": -123.152398,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2008,
+	"treeId": 38782
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 12.0,
+	"lat": 49.2344261,
+	"lon": -123.1529766,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2028,
+	"treeId": 38795
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 9.5,
+	"lat": 49.2345265,
+	"lon": -123.1532869,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2038,
+	"treeId": 38800
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 9.0,
+	"lat": 49.2344401,
+	"lon": -123.1533748,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2044,
+	"treeId": 38802
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 8.75,
+	"lat": 49.2343868,
+	"lon": -123.153569,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2048,
+	"treeId": 38804
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 5.0,
+	"lat": 49.234427,
+	"lon": -123.1538939,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2058,
+	"treeId": 38805
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 11.5,
+	"lat": 49.2342436,
+	"lon": -123.15406,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2064,
+	"treeId": 38809
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 8.0,
+	"lat": 49.2344522,
+	"lon": -123.1541876,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2070,
+	"treeId": 38812
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 8.5,
+	"lat": 49.2342579,
+	"lon": -123.1543045,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2074,
+	"treeId": 38813
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 8.5,
+	"lat": 49.2344361,
+	"lon": -123.1544512,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2082,
+	"treeId": 38820
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 6.5,
+	"lat": 49.2342518,
+	"lon": -123.154584,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2090,
+	"treeId": 38821
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 9.0,
+	"lat": 49.2344489,
+	"lon": -123.1546894,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2094,
+	"treeId": 38822
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 13.5,
+	"lat": 49.2345083,
+	"lon": -123.1563742,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2118,
+	"treeId": 38827
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 12.5,
+	"lat": 49.234462,
+	"lon": -123.1566494,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2126,
+	"treeId": 38831
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 9.0,
+	"lat": 49.2344995,
+	"lon": -123.1568793,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2138,
+	"treeId": 38832
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 9.5,
+	"lat": 49.2345925,
+	"lon": -123.1570616,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2144,
+	"treeId": 38835
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 10.5,
+	"lat": 49.2345064,
+	"lon": -123.1573071,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2154,
+	"treeId": 38837
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 7.0,
+	"lat": 49.2344915,
+	"lon": -123.1575341,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2164,
+	"treeId": 38839
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 7.5,
+	"lat": 49.2345155,
+	"lon": -123.1581579,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2186,
+	"treeId": 38844
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 12.0,
+	"lat": 49.2344998,
+	"lon": -123.158358,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2198,
+	"treeId": 38847
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 13.0,
+	"lat": 49.2344944,
+	"lon": -123.158784,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2208,
+	"treeId": 38851
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 11.0,
+	"lat": 49.2346142,
+	"lon": -123.158663,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2222,
+	"treeId": 38853
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 13.5,
+	"lat": 49.2344365,
+	"lon": -123.1591789,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2246,
+	"treeId": 38863
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.0,
+	"lat": 49.2344901,
+	"lon": -123.1592032,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2248,
+	"treeId": 38864
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2346318,
+	"lon": -123.1593441,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2260,
+	"treeId": 38866
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 13.5,
+	"lat": 49.2345095,
+	"lon": -123.1596778,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2288,
+	"treeId": 38868
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.0,
+	"lat": 49.234635,
+	"lon": -123.15996,
+	"neighbourhood": "KERRISDALE",
+	"street": "VINE ST",
+	"streetNumber": 5733,
+	"treeId": 38878
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2343754,
+	"lon": -123.160543,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2348,
+	"treeId": 38890
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2346559,
+	"lon": -123.1607399,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2356,
+	"treeId": 38891
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 4.0,
+	"lat": 49.2345368,
+	"lon": -123.1615302,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2408,
+	"treeId": 38900
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 4.0,
+	"lat": 49.2346681,
+	"lon": -123.161789,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 2448,
+	"treeId": 38908
+},
+{
+	"commonName": "CAUCASIAN MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2301249,
+	"lon": -123.1687882,
+	"neighbourhood": "KERRISDALE",
+	"street": "MCCLEERY ST",
+	"streetNumber": 6212,
+	"treeId": 38930
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 10.75,
+	"lat": 49.2344357,
+	"lon": -123.1705026,
+	"neighbourhood": "KERRISDALE",
+	"street": "MACKENZIE ST",
+	"streetNumber": 5747,
+	"treeId": 38939
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2347269,
+	"lon": -123.1732928,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 41ST AV",
+	"streetNumber": 3008,
+	"treeId": 38950
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 9.25,
+	"lat": 49.2347939,
+	"lon": -123.1787035,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 5702,
+	"treeId": 38956
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.75,
+	"lat": 49.2336913,
+	"lon": -123.1787325,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 5812,
+	"treeId": 38962
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2336913,
+	"lon": -123.1787325,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 5862,
+	"treeId": 38964
+},
+{
+	"commonName": "BRANDYWINE RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2166798,
+	"lon": -123.1490496,
+	"neighbourhood": "KERRISDALE",
+	"street": "WEST BOULEVARD",
+	"streetNumber": 7609,
+	"treeId": 39004
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 24.0,
+	"lat": 49.2336841,
+	"lon": -123.1499231,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1919,
+	"treeId": 39320
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.0,
+	"lat": 49.2337836,
+	"lon": -123.1501964,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1933,
+	"treeId": 39323
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 40.0,
+	"lat": 49.233264,
+	"lon": -123.1503426,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1938,
+	"treeId": 39324
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 21.0,
+	"lat": 49.2336633,
+	"lon": -123.1502947,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1939,
+	"treeId": 39325
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2335468,
+	"lon": -123.1506185,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1955,
+	"treeId": 39326
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 33.0,
+	"lat": 49.2337901,
+	"lon": -123.150781,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1957,
+	"treeId": 39328
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 30.0,
+	"lat": 49.2332692,
+	"lon": -123.1508021,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1958,
+	"treeId": 39329
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 19.0,
+	"lat": 49.2337921,
+	"lon": -123.150985,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1967,
+	"treeId": 39330
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 19.0,
+	"lat": 49.2332725,
+	"lon": -123.1510116,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1968,
+	"treeId": 39331
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 29.0,
+	"lat": 49.2337013,
+	"lon": -123.1512169,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1975,
+	"treeId": 39332
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 38.0,
+	"lat": 49.2333584,
+	"lon": -123.1511804,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1976,
+	"treeId": 39333
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.0,
+	"lat": 49.233796,
+	"lon": -123.1514202,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1983,
+	"treeId": 39334
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 24.5,
+	"lat": 49.2338006,
+	"lon": -123.1516234,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1991,
+	"treeId": 39336
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2338017,
+	"lon": -123.1518558,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1995,
+	"treeId": 39339
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 25.0,
+	"lat": 49.2332836,
+	"lon": -123.1518487,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 1996,
+	"treeId": 39341
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 19.0,
+	"lat": 49.2333935,
+	"lon": -123.1525221,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2018,
+	"treeId": 39345
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 20.5,
+	"lat": 49.2336685,
+	"lon": -123.1534099,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2071,
+	"treeId": 39347
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 24.5,
+	"lat": 49.2337287,
+	"lon": -123.1529007,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2029,
+	"treeId": 39349
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.5,
+	"lat": 49.2337087,
+	"lon": -123.1528988,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2027,
+	"treeId": 39350
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.5,
+	"lat": 49.2332936,
+	"lon": -123.1527526,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2022,
+	"treeId": 39352
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 23.0,
+	"lat": 49.2332965,
+	"lon": -123.1529614,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2032,
+	"treeId": 39353
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 33.0,
+	"lat": 49.2333011,
+	"lon": -123.1531695,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2042,
+	"treeId": 39354
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.0,
+	"lat": 49.2333073,
+	"lon": -123.1535893,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2058,
+	"treeId": 39358
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2334864,
+	"lon": -123.1536989,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2066,
+	"treeId": 39360
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 28.0,
+	"lat": 49.2334486,
+	"lon": -123.1540896,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2084,
+	"treeId": 39361
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 9.0,
+	"lat": 49.2336098,
+	"lon": -123.1565118,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2133,
+	"treeId": 39372
+},
+{
+	"commonName": "JAPANESE MAPLE",
+	"diameter": 10.25,
+	"lat": 49.233794,
+	"lon": -123.1573797,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2177,
+	"treeId": 39380
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 6.5,
+	"lat": 49.2339496,
+	"lon": -123.1578097,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2189,
+	"treeId": 39382
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.75,
+	"lat": 49.2339979,
+	"lon": -123.164472,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2605,
+	"treeId": 39396
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 13.0,
+	"lat": 49.2338909,
+	"lon": -123.1648359,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2635,
+	"treeId": 39403
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 29.0,
+	"lat": 49.2338937,
+	"lon": -123.1651454,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2655,
+	"treeId": 39406
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.0,
+	"lat": 49.2334849,
+	"lon": -123.1652033,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2656,
+	"treeId": 39407
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.5,
+	"lat": 49.2337378,
+	"lon": -123.1654376,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2676,
+	"treeId": 39409
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2337626,
+	"lon": -123.165604,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2687,
+	"treeId": 39411
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 27.0,
+	"lat": 49.2334936,
+	"lon": -123.1657327,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2696,
+	"treeId": 39412
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 30.0,
+	"lat": 49.2334998,
+	"lon": -123.1661491,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2726,
+	"treeId": 39416
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2339504,
+	"lon": -123.1662185,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2735,
+	"treeId": 39417
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.0,
+	"lat": 49.2340362,
+	"lon": -123.166545,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2755,
+	"treeId": 39419
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2340417,
+	"lon": -123.1668232,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2775,
+	"treeId": 39422
+},
+{
+	"commonName": "PYRAMIDAL EUROPEAN HORNBEAM",
+	"diameter": 4.0,
+	"lat": 49.2335643,
+	"lon": -123.1687817,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2848,
+	"treeId": 39429
+},
+{
+	"commonName": "PYRAMIDAL EUROPEAN HORNBEAM",
+	"diameter": 5.0,
+	"lat": 49.2334799,
+	"lon": -123.1690144,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2852,
+	"treeId": 39433
+},
+{
+	"commonName": "PYRAMIDAL EUROPEAN HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2334792,
+	"lon": -123.1691525,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2858,
+	"treeId": 39435
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 24.5,
+	"lat": 49.2340308,
+	"lon": -123.1699709,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2889,
+	"treeId": 39443
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 26.0,
+	"lat": 49.2336173,
+	"lon": -123.1700364,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2896,
+	"treeId": 39446
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 24.0,
+	"lat": 49.2335942,
+	"lon": -123.170721,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2916,
+	"treeId": 39458
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 17.5,
+	"lat": 49.2340309,
+	"lon": -123.1710725,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2925,
+	"treeId": 39460
+},
+{
+	"commonName": "ARMSTRONG RED MAPLE",
+	"diameter": 8.5,
+	"lat": 49.2334804,
+	"lon": -123.1710797,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2926,
+	"treeId": 39461
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 12.5,
+	"lat": 49.2339353,
+	"lon": -123.1711638,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2935,
+	"treeId": 39464
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 27.0,
+	"lat": 49.2339491,
+	"lon": -123.1714455,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2941,
+	"treeId": 39465
+},
+{
+	"commonName": "ARMSTRONG RED MAPLE",
+	"diameter": 11.0,
+	"lat": 49.2340305,
+	"lon": -123.1716407,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2947,
+	"treeId": 39466
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 15.5,
+	"lat": 49.2337546,
+	"lon": -123.1717799,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2958,
+	"treeId": 39469
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 18.5,
+	"lat": 49.2334802,
+	"lon": -123.1717603,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2966,
+	"treeId": 39470
+},
+{
+	"commonName": "ARMSTRONG RED MAPLE",
+	"diameter": 7.5,
+	"lat": 49.2337811,
+	"lon": -123.1722103,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2967,
+	"treeId": 39471
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 27.0,
+	"lat": 49.2334821,
+	"lon": -123.1723743,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2974,
+	"treeId": 39477
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 26.0,
+	"lat": 49.2334814,
+	"lon": -123.1725357,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2988,
+	"treeId": 39478
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 14.5,
+	"lat": 49.2337852,
+	"lon": -123.1729142,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 2991,
+	"treeId": 39480
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.75,
+	"lat": 49.2337863,
+	"lon": -123.1731856,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3029,
+	"treeId": 39485
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.0,
+	"lat": 49.2337785,
+	"lon": -123.1730695,
+	"neighbourhood": "KERRISDALE",
+	"street": "CARNARVON ST",
+	"streetNumber": 5789,
+	"treeId": 39486
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.25,
+	"lat": 49.233478,
+	"lon": -123.1735961,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3028,
+	"treeId": 39488
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2340345,
+	"lon": -123.1736744,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3037,
+	"treeId": 39490
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2338462,
+	"lon": -123.1738965,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3061,
+	"treeId": 39492
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 14.0,
+	"lat": 49.233476,
+	"lon": -123.1739943,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3066,
+	"treeId": 39493
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 8.5,
+	"lat": 49.234035,
+	"lon": -123.1740658,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3069,
+	"treeId": 39494
+},
+{
+	"commonName": "SHORE PINE",
+	"diameter": 20.5,
+	"lat": 49.2340343,
+	"lon": -123.1742032,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3083,
+	"treeId": 39495
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 21.0,
+	"lat": 49.233858,
+	"lon": -123.1749826,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3137,
+	"treeId": 39504
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.0,
+	"lat": 49.2337672,
+	"lon": -123.1752197,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 42ND AV",
+	"streetNumber": 3156,
+	"treeId": 39505
+},
+{
+	"commonName": "RANCHO SARGENT CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2156468,
+	"lon": -123.1485885,
+	"neighbourhood": "KERRISDALE",
+	"street": "ANGUS DRIVE",
+	"streetNumber": 7729,
+	"treeId": 39554
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2323555,
+	"lon": -123.1432392,
+	"neighbourhood": "KERRISDALE",
+	"street": "ADERA ST",
+	"streetNumber": 5918,
+	"treeId": 40030
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 23.5,
+	"lat": 49.2327,
+	"lon": -123.1487613,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1855,
+	"treeId": 40042
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 15.0,
+	"lat": 49.2322928,
+	"lon": -123.1487797,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1868,
+	"treeId": 40044
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.5,
+	"lat": 49.2322976,
+	"lon": -123.1490848,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1870,
+	"treeId": 40047
+},
+{
+	"commonName": "KATSURA TREE",
+	"diameter": 4.0,
+	"lat": 49.2327911,
+	"lon": -123.1489725,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1881,
+	"treeId": 40055
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 28.5,
+	"lat": 49.2323601,
+	"lon": -123.1495718,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1906,
+	"treeId": 40060
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 10.0,
+	"lat": 49.2324858,
+	"lon": -123.1499738,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1928,
+	"treeId": 40073
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 9.0,
+	"lat": 49.23237,
+	"lon": -123.1502039,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1936,
+	"treeId": 40077
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.0,
+	"lat": 49.232477,
+	"lon": -123.1503975,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1938,
+	"treeId": 40078
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2323813,
+	"lon": -123.1508344,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1956,
+	"treeId": 40082
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 14.0,
+	"lat": 49.2328318,
+	"lon": -123.1510232,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1959,
+	"treeId": 40083
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 11.0,
+	"lat": 49.2323847,
+	"lon": -123.1510418,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1960,
+	"treeId": 40086
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 14.0,
+	"lat": 49.2328377,
+	"lon": -123.1512343,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1969,
+	"treeId": 40087
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.75,
+	"lat": 49.2325234,
+	"lon": -123.1512211,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1968,
+	"treeId": 40088
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 11.25,
+	"lat": 49.2328993,
+	"lon": -123.1516577,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1985,
+	"treeId": 40091
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.5,
+	"lat": 49.232506,
+	"lon": -123.1516535,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1986,
+	"treeId": 40092
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 11.0,
+	"lat": 49.2328363,
+	"lon": -123.1518939,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 1993,
+	"treeId": 40094
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 30.0,
+	"lat": 49.2329073,
+	"lon": -123.1523675,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2005,
+	"treeId": 40099
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 26.5,
+	"lat": 49.2328645,
+	"lon": -123.1526083,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2013,
+	"treeId": 40103
+},
+{
+	"commonName": "RUBY RED HORSECHESTNUT",
+	"diameter": 3.5,
+	"lat": 49.232405,
+	"lon": -123.1527024,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2016,
+	"treeId": 40104
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 22.0,
+	"lat": 49.2325432,
+	"lon": -123.1528937,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2028,
+	"treeId": 40105
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 28.0,
+	"lat": 49.2329164,
+	"lon": -123.1529767,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2031,
+	"treeId": 40107
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2325304,
+	"lon": -123.153204,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2038,
+	"treeId": 40108
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.5,
+	"lat": 49.2328483,
+	"lon": -123.1532425,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2039,
+	"treeId": 40109
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2327812,
+	"lon": -123.1533601,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2049,
+	"treeId": 40110
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 19.5,
+	"lat": 49.2329245,
+	"lon": -123.1535881,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2057,
+	"treeId": 40112
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 29.5,
+	"lat": 49.2324192,
+	"lon": -123.1537005,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2060,
+	"treeId": 40113
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.0,
+	"lat": 49.2327561,
+	"lon": -123.1537493,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2065,
+	"treeId": 40114
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.25,
+	"lat": 49.2324222,
+	"lon": -123.1539581,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2072,
+	"treeId": 40115
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2327895,
+	"lon": -123.1540056,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2075,
+	"treeId": 40116
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 44.0,
+	"lat": 49.2324859,
+	"lon": -123.1541756,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2082,
+	"treeId": 40117
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 22.0,
+	"lat": 49.2325136,
+	"lon": -123.1546609,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2094,
+	"treeId": 40119
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 10.0,
+	"lat": 49.2327509,
+	"lon": -123.1550363,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2101,
+	"treeId": 40124
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 17.5,
+	"lat": 49.2327062,
+	"lon": -123.1525357,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2011,
+	"treeId": 40132
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 7.5,
+	"lat": 49.23248,
+	"lon": -123.15596,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2110,
+	"treeId": 40133
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 14.0,
+	"lat": 49.2325677,
+	"lon": -123.1566804,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2128,
+	"treeId": 40137
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 11.5,
+	"lat": 49.232598,
+	"lon": -123.1569707,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2146,
+	"treeId": 40139
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.5,
+	"lat": 49.2324567,
+	"lon": -123.1579879,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2180,
+	"treeId": 40141
+},
+{
+	"commonName": "TOBA HAWTHORN",
+	"diameter": 4.0,
+	"lat": 49.2325772,
+	"lon": -123.1593324,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2250,
+	"treeId": 40145
+},
+{
+	"commonName": "PAUL'S SCARLET HAWTHORN",
+	"diameter": 10.25,
+	"lat": 49.2329227,
+	"lon": -123.1595982,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2275,
+	"treeId": 40146
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 22.5,
+	"lat": 49.232793,
+	"lon": -123.1599934,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2292,
+	"treeId": 40150
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2328173,
+	"lon": -123.1600345,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2309,
+	"treeId": 40151
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.232526,
+	"lon": -123.1604961,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2346,
+	"treeId": 40156
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 23.0,
+	"lat": 49.2325731,
+	"lon": -123.1606697,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2376,
+	"treeId": 40157
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 6.5,
+	"lat": 49.2330714,
+	"lon": -123.1617148,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2409,
+	"treeId": 40159
+},
+{
+	"commonName": "BIGLEAF MAPLE",
+	"diameter": 33.5,
+	"lat": 49.2327526,
+	"lon": -123.1638739,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2590,
+	"treeId": 40165
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 25.5,
+	"lat": 49.2330521,
+	"lon": -123.1648947,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2635,
+	"treeId": 40167
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 27.5,
+	"lat": 49.2331138,
+	"lon": -123.1652954,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2663,
+	"treeId": 40169
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 29.0,
+	"lat": 49.2331199,
+	"lon": -123.165706,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2691,
+	"treeId": 40170
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 25.0,
+	"lat": 49.2330809,
+	"lon": -123.1661965,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2725,
+	"treeId": 40172
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 21.0,
+	"lat": 49.2330623,
+	"lon": -123.1668893,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2775,
+	"treeId": 40175
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 14.0,
+	"lat": 49.2329214,
+	"lon": -123.1679468,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2805,
+	"treeId": 40178
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 9.0,
+	"lat": 49.233116,
+	"lon": -123.1686954,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2827,
+	"treeId": 40184
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 20.25,
+	"lat": 49.232518,
+	"lon": -123.168285,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2828,
+	"treeId": 40185
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 14.5,
+	"lat": 49.2331524,
+	"lon": -123.1687557,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2837,
+	"treeId": 40187
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 25.0,
+	"lat": 49.2326118,
+	"lon": -123.1686495,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2832,
+	"treeId": 40189
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 21.25,
+	"lat": 49.2327681,
+	"lon": -123.1688434,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2858,
+	"treeId": 40191
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.5,
+	"lat": 49.2330634,
+	"lon": -123.1690178,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2851,
+	"treeId": 40192
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2330627,
+	"lon": -123.1691558,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2857,
+	"treeId": 40195
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 17.0,
+	"lat": 49.2329783,
+	"lon": -123.169323,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2863,
+	"treeId": 40196
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2330622,
+	"lon": -123.1695294,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2873,
+	"treeId": 40199
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 12.0,
+	"lat": 49.2330601,
+	"lon": -123.169708,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2879,
+	"treeId": 40200
+},
+{
+	"commonName": "WORPLESDON SWEETGUM",
+	"diameter": 3.75,
+	"lat": 49.2330581,
+	"lon": -123.1701222,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2895,
+	"treeId": 40203
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 15.75,
+	"lat": 49.2330588,
+	"lon": -123.1699841,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2891,
+	"treeId": 40204
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 26.0,
+	"lat": 49.2326091,
+	"lon": -123.1705523,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2906,
+	"treeId": 40209
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 31.0,
+	"lat": 49.2330589,
+	"lon": -123.1705308,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2909,
+	"treeId": 40214
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 30.5,
+	"lat": 49.2330591,
+	"lon": -123.1706689,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2913,
+	"treeId": 40218
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 23.0,
+	"lat": 49.2329256,
+	"lon": -123.1708123,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2915,
+	"treeId": 40219
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 27.0,
+	"lat": 49.2325254,
+	"lon": -123.1708756,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2916,
+	"treeId": 40222
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 29.0,
+	"lat": 49.2330594,
+	"lon": -123.1710823,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2925,
+	"treeId": 40224
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 26.0,
+	"lat": 49.2325259,
+	"lon": -123.1711531,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2928,
+	"treeId": 40225
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 27.5,
+	"lat": 49.2330583,
+	"lon": -123.1712037,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2929,
+	"treeId": 40228
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 17.5,
+	"lat": 49.2325268,
+	"lon": -123.1714248,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2938,
+	"treeId": 40229
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 35.0,
+	"lat": 49.2329439,
+	"lon": -123.1714636,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2941,
+	"treeId": 40233
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 36.5,
+	"lat": 49.2330595,
+	"lon": -123.1716352,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2947,
+	"treeId": 40234
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 21.0,
+	"lat": 49.2326578,
+	"lon": -123.1716574,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2950,
+	"treeId": 40235
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 8.0,
+	"lat": 49.2329631,
+	"lon": -123.1719065,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2963,
+	"treeId": 40237
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 14.0,
+	"lat": 49.2328886,
+	"lon": -123.1717518,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2955,
+	"treeId": 40238
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 30.0,
+	"lat": 49.2328896,
+	"lon": -123.1721766,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2973,
+	"treeId": 40241
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 27.0,
+	"lat": 49.2328901,
+	"lon": -123.1720478,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2967,
+	"treeId": 40242
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 29.0,
+	"lat": 49.2325283,
+	"lon": -123.1722515,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2972,
+	"treeId": 40244
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 22.5,
+	"lat": 49.2328826,
+	"lon": -123.1723358,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2979,
+	"treeId": 40245
+},
+{
+	"commonName": "WESTERN CATALPA",
+	"diameter": 41.5,
+	"lat": 49.2325311,
+	"lon": -123.1724568,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2980,
+	"treeId": 40247
+},
+{
+	"commonName": "FAIRVIEW NORWAY MAPLE",
+	"diameter": 8.0,
+	"lat": 49.2325313,
+	"lon": -123.1726251,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 2992,
+	"treeId": 40248
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 50.0,
+	"lat": 49.2330576,
+	"lon": -123.1735239,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3019,
+	"treeId": 40249
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 12.0,
+	"lat": 49.2326346,
+	"lon": -123.1735438,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3026,
+	"treeId": 40250
+},
+{
+	"commonName": "PYRAMIDAL EUROPEAN HORNBEAM",
+	"diameter": 11.0,
+	"lat": 49.2325247,
+	"lon": -123.1737411,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3030,
+	"treeId": 40251
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 16.0,
+	"lat": 49.2330691,
+	"lon": -123.1738983,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3055,
+	"treeId": 40255
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 34.0,
+	"lat": 49.2329568,
+	"lon": -123.1740261,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3059,
+	"treeId": 40257
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 36.0,
+	"lat": 49.2325934,
+	"lon": -123.1741261,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3070,
+	"treeId": 40258
+},
+{
+	"commonName": "PYRAMIDAL EUROPEAN HORNBEAM",
+	"diameter": 12.0,
+	"lat": 49.232526,
+	"lon": -123.1743818,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3090,
+	"treeId": 40259
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 28.0,
+	"lat": 49.2330586,
+	"lon": -123.1743124,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3091,
+	"treeId": 40260
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 22.0,
+	"lat": 49.2329569,
+	"lon": -123.1746183,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3111,
+	"treeId": 40261
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 43.0,
+	"lat": 49.2326165,
+	"lon": -123.1747784,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3130,
+	"treeId": 40262
+},
+{
+	"commonName": "PYRAMIDAL EUROPEAN HORNBEAM",
+	"diameter": 4.0,
+	"lat": 49.2325295,
+	"lon": -123.1750055,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3160,
+	"treeId": 40264
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2330631,
+	"lon": -123.1752451,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3161,
+	"treeId": 40265
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 35.0,
+	"lat": 49.2326156,
+	"lon": -123.1753288,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3180,
+	"treeId": 40266
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2329099,
+	"lon": -123.1753837,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 43RD AV",
+	"streetNumber": 3187,
+	"treeId": 40267
+},
+{
+	"commonName": "RANCHO SARGENT CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2172668,
+	"lon": -123.1495756,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 60TH AV",
+	"streetNumber": 1807,
+	"treeId": 40297
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 18.0,
+	"lat": 49.231495,
+	"lon": -123.1496201,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1906,
+	"treeId": 40730
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 21.5,
+	"lat": 49.2318928,
+	"lon": -123.1497955,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1913,
+	"treeId": 40735
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 21.0,
+	"lat": 49.2315708,
+	"lon": -123.1497837,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1918,
+	"treeId": 40736
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 30.0,
+	"lat": 49.2319942,
+	"lon": -123.1500178,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1921,
+	"treeId": 40737
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2316564,
+	"lon": -123.1500004,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1922,
+	"treeId": 40738
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 23.5,
+	"lat": 49.2319216,
+	"lon": -123.1502348,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1929,
+	"treeId": 40740
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 25.5,
+	"lat": 49.2315043,
+	"lon": -123.1504622,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1938,
+	"treeId": 40741
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 20.5,
+	"lat": 49.2319167,
+	"lon": -123.1506387,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1945,
+	"treeId": 40744
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 30.0,
+	"lat": 49.2315945,
+	"lon": -123.1506515,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1948,
+	"treeId": 40745
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 22.5,
+	"lat": 49.2315809,
+	"lon": -123.1508405,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1954,
+	"treeId": 40746
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 28.0,
+	"lat": 49.2320071,
+	"lon": -123.1508544,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1955,
+	"treeId": 40747
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 21.0,
+	"lat": 49.2315121,
+	"lon": -123.1510954,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1960,
+	"treeId": 40748
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 27.5,
+	"lat": 49.2320133,
+	"lon": -123.151274,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1969,
+	"treeId": 40750
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2315138,
+	"lon": -123.1515068,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1976,
+	"treeId": 40751
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 14.5,
+	"lat": 49.2319397,
+	"lon": -123.1514768,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1977,
+	"treeId": 40752
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2315171,
+	"lon": -123.151717,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 1988,
+	"treeId": 40753
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 7.5,
+	"lat": 49.2318077,
+	"lon": -123.1523349,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2004,
+	"treeId": 40761
+},
+{
+	"commonName": "PAPER BIRCH",
+	"diameter": 33.6,
+	"lat": 49.2319349,
+	"lon": -123.1524703,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2005,
+	"treeId": 40768
+},
+{
+	"commonName": "SHIROFUGEN CHERRY",
+	"diameter": 17.5,
+	"lat": 49.2316188,
+	"lon": -123.1529532,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2022,
+	"treeId": 40772
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2320307,
+	"lon": -123.152978,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2027,
+	"treeId": 40773
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 17.0,
+	"lat": 49.2315081,
+	"lon": -123.1533841,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2044,
+	"treeId": 40775
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.0,
+	"lat": 49.2320402,
+	"lon": -123.1537301,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2069,
+	"treeId": 40780
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.75,
+	"lat": 49.2319424,
+	"lon": -123.1541942,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2081,
+	"treeId": 40783
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.0,
+	"lat": 49.2316613,
+	"lon": -123.1541773,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2084,
+	"treeId": 40784
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.0,
+	"lat": 49.2319179,
+	"lon": -123.1546997,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2095,
+	"treeId": 40786
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2316031,
+	"lon": -123.1566283,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2120,
+	"treeId": 40788
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 15.0,
+	"lat": 49.2320384,
+	"lon": -123.1568898,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2121,
+	"treeId": 40793
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2319008,
+	"lon": -123.1574277,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2155,
+	"treeId": 40797
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 16.5,
+	"lat": 49.2319885,
+	"lon": -123.1578671,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2183,
+	"treeId": 40803
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2321286,
+	"lon": -123.1584159,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2185,
+	"treeId": 40809
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 19.0,
+	"lat": 49.2320849,
+	"lon": -123.1683038,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2819,
+	"treeId": 40812
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 12.5,
+	"lat": 49.2316175,
+	"lon": -123.1683082,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2820,
+	"treeId": 40814
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 6.0,
+	"lat": 49.2316185,
+	"lon": -123.1685856,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2832,
+	"treeId": 40818
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 16.5,
+	"lat": 49.2321363,
+	"lon": -123.1693895,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2867,
+	"treeId": 40830
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 20.0,
+	"lat": 49.2316221,
+	"lon": -123.1694668,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2868,
+	"treeId": 40834
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 18.5,
+	"lat": 49.2316248,
+	"lon": -123.1700547,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2892,
+	"treeId": 40844
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 16.0,
+	"lat": 49.2320629,
+	"lon": -123.1711563,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2927,
+	"treeId": 40861
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 23.0,
+	"lat": 49.2320757,
+	"lon": -123.1716763,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2949,
+	"treeId": 40868
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 11.5,
+	"lat": 49.2320829,
+	"lon": -123.1719502,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2959,
+	"treeId": 40872
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 19.0,
+	"lat": 49.23172,
+	"lon": -123.1722682,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2972,
+	"treeId": 40879
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 26.5,
+	"lat": 49.232145,
+	"lon": -123.1725494,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2981,
+	"treeId": 40882
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 24.0,
+	"lat": 49.231631,
+	"lon": -123.1725574,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2982,
+	"treeId": 40883
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.0,
+	"lat": 49.2321456,
+	"lon": -123.1728241,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 2993,
+	"treeId": 40889
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 23.0,
+	"lat": 49.2321423,
+	"lon": -123.1735323,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3025,
+	"treeId": 40890
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 7.0,
+	"lat": 49.2316338,
+	"lon": -123.1736698,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3030,
+	"treeId": 40891
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 7.0,
+	"lat": 49.2316983,
+	"lon": -123.173891,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3044,
+	"treeId": 40894
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.0,
+	"lat": 49.232142,
+	"lon": -123.1737425,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3049,
+	"treeId": 40896
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2321413,
+	"lon": -123.1741587,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3069,
+	"treeId": 40898
+},
+{
+	"commonName": "ENGLISH HAWTHORN",
+	"diameter": 6.75,
+	"lat": 49.2321053,
+	"lon": -123.1743547,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3089,
+	"treeId": 40899
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 15.5,
+	"lat": 49.2316505,
+	"lon": -123.1743315,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3090,
+	"treeId": 40900
+},
+{
+	"commonName": "ENGLISH HAWTHORN",
+	"diameter": 8.0,
+	"lat": 49.2317838,
+	"lon": -123.1745546,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3118,
+	"treeId": 40902
+},
+{
+	"commonName": "AKEBONO FLOWERING CHERRY",
+	"diameter": 5.0,
+	"lat": 49.2316356,
+	"lon": -123.174847,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3130,
+	"treeId": 40904
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2320097,
+	"lon": -123.1748019,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3131,
+	"treeId": 40906
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 4.0,
+	"lat": 49.2321422,
+	"lon": -123.1750804,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 44TH AV",
+	"streetNumber": 3155,
+	"treeId": 40908
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 18.0,
+	"lat": 49.2306727,
+	"lon": -123.1401808,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1511,
+	"treeId": 41670
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 18.5,
+	"lat": 49.2308299,
+	"lon": -123.1413419,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6088,
+	"treeId": 41673
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2308621,
+	"lon": -123.1438472,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1661,
+	"treeId": 41677
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 14.0,
+	"lat": 49.2308814,
+	"lon": -123.1453053,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1711,
+	"treeId": 41684
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 23.5,
+	"lat": 49.2309355,
+	"lon": -123.1484575,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1833,
+	"treeId": 41691
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.0,
+	"lat": 49.2308232,
+	"lon": -123.1487462,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1883,
+	"treeId": 41693
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 32.0,
+	"lat": 49.2305749,
+	"lon": -123.1489551,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1876,
+	"treeId": 41695
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 16.25,
+	"lat": 49.2309556,
+	"lon": -123.1490733,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1887,
+	"treeId": 41700
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 21.75,
+	"lat": 49.2307413,
+	"lon": -123.1493486,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1906,
+	"treeId": 41707
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 21.5,
+	"lat": 49.2307413,
+	"lon": -123.1493486,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1914,
+	"treeId": 41708
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.5,
+	"lat": 49.2307413,
+	"lon": -123.1493486,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1926,
+	"treeId": 41710
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.75,
+	"lat": 49.2307413,
+	"lon": -123.1493486,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1930,
+	"treeId": 41711
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.5,
+	"lat": 49.2307883,
+	"lon": -123.1522054,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1946,
+	"treeId": 41713
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 39.25,
+	"lat": 49.2309411,
+	"lon": -123.1496301,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1905,
+	"treeId": 41714
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 22.75,
+	"lat": 49.2310444,
+	"lon": -123.150684,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1945,
+	"treeId": 41724
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2307883,
+	"lon": -123.1522054,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1978,
+	"treeId": 41726
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2307883,
+	"lon": -123.1522054,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1982,
+	"treeId": 41727
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 24.0,
+	"lat": 49.2309572,
+	"lon": -123.1511127,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1961,
+	"treeId": 41733
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2309689,
+	"lon": -123.1515645,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 1977,
+	"treeId": 41735
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2309859,
+	"lon": -123.1524721,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2005,
+	"treeId": 41742
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 16.0,
+	"lat": 49.2306497,
+	"lon": -123.1524825,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2006,
+	"treeId": 41746
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 8.5,
+	"lat": 49.2305222,
+	"lon": -123.1526582,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2018,
+	"treeId": 41751
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 14.0,
+	"lat": 49.2305243,
+	"lon": -123.1528704,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2020,
+	"treeId": 41753
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 15.5,
+	"lat": 49.2305303,
+	"lon": -123.1530758,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2028,
+	"treeId": 41754
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 17.0,
+	"lat": 49.2309201,
+	"lon": -123.1529857,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2031,
+	"treeId": 41756
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 16.0,
+	"lat": 49.2306455,
+	"lon": -123.1532754,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2038,
+	"treeId": 41758
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2309787,
+	"lon": -123.1531766,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2037,
+	"treeId": 41759
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 16.0,
+	"lat": 49.2309955,
+	"lon": -123.1532992,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2043,
+	"treeId": 41761
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2307363,
+	"lon": -123.1534453,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2046,
+	"treeId": 41762
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2306794,
+	"lon": -123.1537179,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2054,
+	"treeId": 41763
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 21.5,
+	"lat": 49.2310022,
+	"lon": -123.1537096,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2061,
+	"treeId": 41766
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2306476,
+	"lon": -123.1539145,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2062,
+	"treeId": 41768
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 26.5,
+	"lat": 49.231103,
+	"lon": -123.15394,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2073,
+	"treeId": 41770
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 15.5,
+	"lat": 49.2310302,
+	"lon": -123.1540994,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2079,
+	"treeId": 41771
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 14.5,
+	"lat": 49.2311076,
+	"lon": -123.1541982,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2083,
+	"treeId": 41773
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2310583,
+	"lon": -123.1543201,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2085,
+	"treeId": 41775
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 18.5,
+	"lat": 49.2309473,
+	"lon": -123.1546988,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2095,
+	"treeId": 41779
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 20.0,
+	"lat": 49.2307002,
+	"lon": -123.1566852,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2116,
+	"treeId": 41784
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.5,
+	"lat": 49.2311344,
+	"lon": -123.1566262,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2123,
+	"treeId": 41785
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 33.0,
+	"lat": 49.2308569,
+	"lon": -123.1569004,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2126,
+	"treeId": 41786
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 14.25,
+	"lat": 49.2310803,
+	"lon": -123.1568555,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2135,
+	"treeId": 41787
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 20.0,
+	"lat": 49.2307226,
+	"lon": -123.15715,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2138,
+	"treeId": 41788
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.5,
+	"lat": 49.2311402,
+	"lon": -123.1570389,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2141,
+	"treeId": 41789
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 21.0,
+	"lat": 49.2307419,
+	"lon": -123.1575035,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2154,
+	"treeId": 41791
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 36.0,
+	"lat": 49.2311434,
+	"lon": -123.157313,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2155,
+	"treeId": 41792
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 23.0,
+	"lat": 49.2308742,
+	"lon": -123.157892,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2174,
+	"treeId": 41797
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 19.0,
+	"lat": 49.2307312,
+	"lon": -123.1580948,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2184,
+	"treeId": 41798
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.0,
+	"lat": 49.231073,
+	"lon": -123.158967,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2195,
+	"treeId": 41801
+},
+{
+	"commonName": "WHITCOMB CHERRY",
+	"diameter": 23.0,
+	"lat": 49.2306088,
+	"lon": -123.1584568,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2196,
+	"treeId": 41808
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.0,
+	"lat": 49.230913,
+	"lon": -123.1588126,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2201,
+	"treeId": 41811
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 13.5,
+	"lat": 49.230645,
+	"lon": -123.158889,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2208,
+	"treeId": 41815
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.5,
+	"lat": 49.2308168,
+	"lon": -123.1590035,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2220,
+	"treeId": 41819
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2306488,
+	"lon": -123.1591686,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2232,
+	"treeId": 41820
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2307478,
+	"lon": -123.1594227,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2256,
+	"treeId": 41821
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2309183,
+	"lon": -123.1595631,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2267,
+	"treeId": 41824
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2306545,
+	"lon": -123.1595875,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2268,
+	"treeId": 41825
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 8.0,
+	"lat": 49.231107,
+	"lon": -123.1596964,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2279,
+	"treeId": 41826
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 22.0,
+	"lat": 49.2308145,
+	"lon": -123.1597519,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2288,
+	"treeId": 41827
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 13.0,
+	"lat": 49.2311637,
+	"lon": -123.1598687,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2291,
+	"treeId": 41828
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 11.0,
+	"lat": 49.2310238,
+	"lon": -123.1603484,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2307,
+	"treeId": 41829
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 8.5,
+	"lat": 49.2311003,
+	"lon": -123.1605644,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2331,
+	"treeId": 41836
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 10.0,
+	"lat": 49.2311821,
+	"lon": -123.1608619,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2355,
+	"treeId": 41841
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 10.0,
+	"lat": 49.231103,
+	"lon": -123.1610452,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2365,
+	"treeId": 41843
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 10.25,
+	"lat": 49.2307807,
+	"lon": -123.1611557,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2380,
+	"treeId": 41844
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 11.0,
+	"lat": 49.2307929,
+	"lon": -123.1612467,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2392,
+	"treeId": 41849
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 13.5,
+	"lat": 49.2308616,
+	"lon": -123.1617125,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2408,
+	"treeId": 41856
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 9.0,
+	"lat": 49.2308,
+	"lon": -123.1618637,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2420,
+	"treeId": 41860
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 10.5,
+	"lat": 49.2309518,
+	"lon": -123.1615498,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2425,
+	"treeId": 41861
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 7.0,
+	"lat": 49.2309567,
+	"lon": -123.1618949,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2443,
+	"treeId": 41862
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 10.0,
+	"lat": 49.2306909,
+	"lon": -123.1621274,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2448,
+	"treeId": 41866
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 11.0,
+	"lat": 49.2312171,
+	"lon": -123.162513,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2479,
+	"treeId": 41873
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 10.0,
+	"lat": 49.2306979,
+	"lon": -123.162547,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2480,
+	"treeId": 41874
+},
+{
+	"commonName": "JAPANESE DOGWOOD",
+	"diameter": 20.5,
+	"lat": 49.2308001,
+	"lon": -123.1626762,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2492,
+	"treeId": 41875
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 20.0,
+	"lat": 49.231134,
+	"lon": -123.1631434,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2507,
+	"treeId": 41882
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 24.0,
+	"lat": 49.230904,
+	"lon": -123.1634189,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2532,
+	"treeId": 41888
+},
+{
+	"commonName": "EUROPEAN ASH",
+	"diameter": 25.5,
+	"lat": 49.2311442,
+	"lon": -123.1640698,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2583,
+	"treeId": 41895
+},
+{
+	"commonName": "JAPANESE FLOWERING CHERRY ",
+	"diameter": 25.0,
+	"lat": 49.2311689,
+	"lon": -123.1647418,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2607,
+	"treeId": 41904
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 15.0,
+	"lat": 49.2307413,
+	"lon": -123.1649811,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2642,
+	"treeId": 41919
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 22.0,
+	"lat": 49.2307432,
+	"lon": -123.1651899,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2668,
+	"treeId": 41921
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 17.5,
+	"lat": 49.2312172,
+	"lon": -123.1656926,
+	"neighbourhood": "KERRISDALE",
+	"street": "TRAFALGAR ST",
+	"streetNumber": 6088,
+	"treeId": 41926
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 18.0,
+	"lat": 49.2307479,
+	"lon": -123.1654001,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2676,
+	"treeId": 41929
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 23.0,
+	"lat": 49.230865,
+	"lon": -123.1656368,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2692,
+	"treeId": 41931
+},
+{
+	"commonName": "EUROPEAN ASH",
+	"diameter": 15.0,
+	"lat": 49.2311366,
+	"lon": -123.1682753,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2819,
+	"treeId": 41948
+},
+{
+	"commonName": "EUROPEAN ASH",
+	"diameter": 9.0,
+	"lat": 49.2311354,
+	"lon": -123.1688595,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2843,
+	"treeId": 41950
+},
+{
+	"commonName": "AUSTRIAN PINE",
+	"diameter": 19.0,
+	"lat": 49.2310894,
+	"lon": -123.1690208,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2855,
+	"treeId": 41951
+},
+{
+	"commonName": "EUROPEAN ASH",
+	"diameter": 12.0,
+	"lat": 49.2312381,
+	"lon": -123.1694256,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2867,
+	"treeId": 41953
+},
+{
+	"commonName": "EUROPEAN ASH",
+	"diameter": 12.0,
+	"lat": 49.231102,
+	"lon": -123.1696455,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2879,
+	"treeId": 41955
+},
+{
+	"commonName": "EUROPEAN ASH",
+	"diameter": 12.0,
+	"lat": 49.2312356,
+	"lon": -123.1698899,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2883,
+	"treeId": 41956
+},
+{
+	"commonName": "HARLEQUIN AH",
+	"diameter": 3.0,
+	"lat": 49.2312439,
+	"lon": -123.170622,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 2905,
+	"treeId": 41963
+},
+{
+	"commonName": "ENGLISH HAWTHORN",
+	"diameter": 12.0,
+	"lat": 49.2311919,
+	"lon": -123.1736944,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 3029,
+	"treeId": 41967
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 16.0,
+	"lat": 49.2307368,
+	"lon": -123.1740397,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 3060,
+	"treeId": 41969
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 16.0,
+	"lat": 49.230995,
+	"lon": -123.1738306,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 3070,
+	"treeId": 41970
+},
+{
+	"commonName": "FERNLEAF COPPER BEECH",
+	"diameter": 5.75,
+	"lat": 49.2312594,
+	"lon": -123.1755991,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 45TH AV",
+	"streetNumber": 3185,
+	"treeId": 41974
+},
+{
+	"commonName": "NIGHT PURPLE LEAF PLUM",
+	"diameter": 3.0,
+	"lat": 49.2266896,
+	"lon": -123.1619493,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALSAM ST",
+	"streetNumber": 6549,
+	"treeId": 42219
+},
+{
+	"commonName": "CHINA GIRL DOGWOOD",
+	"diameter": 3.0,
+	"lat": 49.2246632,
+	"lon": -123.1576273,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2162,
+	"treeId": 42267
+},
+{
+	"commonName": "MAGNOLIA WADAS MEMORY ",
+	"diameter": 3.0,
+	"lat": 49.225085,
+	"lon": -123.1561445,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2125,
+	"treeId": 42269
+},
+{
+	"commonName": "KATSURA TREE",
+	"diameter": 2.5,
+	"lat": 49.2120707,
+	"lon": -123.1542757,
+	"neighbourhood": "KERRISDALE",
+	"street": "TIDEWATER PLACE",
+	"streetNumber": 8337,
+	"treeId": 42281
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 27.0,
+	"lat": 49.2298373,
+	"lon": -123.1522584,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2005,
+	"treeId": 42679
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 28.5,
+	"lat": 49.2295732,
+	"lon": -123.152708,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2014,
+	"treeId": 42686
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 27.5,
+	"lat": 49.2301112,
+	"lon": -123.1526786,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2019,
+	"treeId": 42687
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2299273,
+	"lon": -123.1528891,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2023,
+	"treeId": 42690
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.25,
+	"lat": 49.2295772,
+	"lon": -123.1531118,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2030,
+	"treeId": 42691
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.5,
+	"lat": 49.2301215,
+	"lon": -123.1533079,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2039,
+	"treeId": 42694
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.5,
+	"lat": 49.2295861,
+	"lon": -123.1535081,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2046,
+	"treeId": 42695
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 9.0,
+	"lat": 49.2295937,
+	"lon": -123.1539125,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2062,
+	"treeId": 42699
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2301302,
+	"lon": -123.1539377,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2069,
+	"treeId": 42700
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 23.5,
+	"lat": 49.2300403,
+	"lon": -123.1541507,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2071,
+	"treeId": 42702
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 23.0,
+	"lat": 49.229598,
+	"lon": -123.1542987,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2078,
+	"treeId": 42703
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 27.0,
+	"lat": 49.2300184,
+	"lon": -123.1548095,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2095,
+	"treeId": 42706
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 30.0,
+	"lat": 49.229771,
+	"lon": -123.1549208,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2096,
+	"treeId": 42709
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.5,
+	"lat": 49.2296544,
+	"lon": -123.1562243,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2110,
+	"treeId": 42711
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.5,
+	"lat": 49.2301687,
+	"lon": -123.1566885,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2117,
+	"treeId": 42714
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.5,
+	"lat": 49.2297234,
+	"lon": -123.1566861,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2122,
+	"treeId": 42715
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2300686,
+	"lon": -123.1569313,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2131,
+	"treeId": 42716
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 33.0,
+	"lat": 49.2298068,
+	"lon": -123.1571037,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2140,
+	"treeId": 42718
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2300745,
+	"lon": -123.1572753,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2143,
+	"treeId": 42719
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 30.0,
+	"lat": 49.2296406,
+	"lon": -123.1573721,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2152,
+	"treeId": 42720
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.5,
+	"lat": 49.2301785,
+	"lon": -123.1574535,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2153,
+	"treeId": 42721
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 29.0,
+	"lat": 49.2296452,
+	"lon": -123.1576482,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2168,
+	"treeId": 42723
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 17.0,
+	"lat": 49.2300593,
+	"lon": -123.1577589,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2167,
+	"treeId": 42724
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.0,
+	"lat": 49.2300792,
+	"lon": -123.1579429,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2175,
+	"treeId": 42725
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 25.0,
+	"lat": 49.2296502,
+	"lon": -123.157925,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2176,
+	"treeId": 42726
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.5,
+	"lat": 49.2300838,
+	"lon": -123.1581646,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2185,
+	"treeId": 42727
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.5,
+	"lat": 49.2296548,
+	"lon": -123.1582018,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2188,
+	"treeId": 42728
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 25.0,
+	"lat": 49.2301403,
+	"lon": -123.1585518,
+	"neighbourhood": "KERRISDALE",
+	"street": "YEW ST",
+	"streetNumber": 6168,
+	"treeId": 42729
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.5,
+	"lat": 49.2299364,
+	"lon": -123.1587095,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 46TH AV",
+	"streetNumber": 2196,
+	"treeId": 42733
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 29.5,
+	"lat": 49.2289647,
+	"lon": -123.1403515,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 1511,
+	"treeId": 43375
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 17.5,
+	"lat": 49.2286542,
+	"lon": -123.1406432,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 1550,
+	"treeId": 43380
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.5,
+	"lat": 49.2286573,
+	"lon": -123.1413275,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 1590,
+	"treeId": 43382
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2286848,
+	"lon": -123.1524959,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2004,
+	"treeId": 43391
+},
+{
+	"commonName": "MAGNOLIA VULCAN",
+	"diameter": 3.0,
+	"lat": 49.2291921,
+	"lon": -123.152509,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2007,
+	"treeId": 43397
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 26.0,
+	"lat": 49.22907,
+	"lon": -123.152715,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2015,
+	"treeId": 43398
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2286907,
+	"lon": -123.1527663,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2016,
+	"treeId": 43399
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 5.0,
+	"lat": 49.2286919,
+	"lon": -123.1529064,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2022,
+	"treeId": 43400
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 22.75,
+	"lat": 49.2291983,
+	"lon": -123.1529272,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2023,
+	"treeId": 43401
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2291994,
+	"lon": -123.1531189,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2031,
+	"treeId": 43403
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2286965,
+	"lon": -123.1531825,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2034,
+	"treeId": 43404
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 21.0,
+	"lat": 49.2291123,
+	"lon": -123.1532913,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2039,
+	"treeId": 43405
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 8.0,
+	"lat": 49.2288488,
+	"lon": -123.1533513,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2040,
+	"treeId": 43406
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 21.5,
+	"lat": 49.2288344,
+	"lon": -123.1534618,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2046,
+	"treeId": 43407
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 10.5,
+	"lat": 49.2288022,
+	"lon": -123.1535649,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2052,
+	"treeId": 43410
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2287038,
+	"lon": -123.1537361,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2058,
+	"treeId": 43412
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2289663,
+	"lon": -123.1541738,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2066,
+	"treeId": 43415
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2288097,
+	"lon": -123.1539604,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2070,
+	"treeId": 43416
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 6.0,
+	"lat": 49.2290855,
+	"lon": -123.1542733,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2075,
+	"treeId": 43418
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 19.0,
+	"lat": 49.2292213,
+	"lon": -123.154529,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2081,
+	"treeId": 43420
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 14.25,
+	"lat": 49.228715,
+	"lon": -123.1544141,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2088,
+	"treeId": 43422
+},
+{
+	"commonName": "BLACK LOCUST",
+	"diameter": 27.5,
+	"lat": 49.2290819,
+	"lon": -123.1549606,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2091,
+	"treeId": 43424
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 17.25,
+	"lat": 49.2291616,
+	"lon": -123.1561647,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2105,
+	"treeId": 43425
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 21.0,
+	"lat": 49.2289014,
+	"lon": -123.1560723,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2108,
+	"treeId": 43427
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 21.0,
+	"lat": 49.2289255,
+	"lon": -123.156295,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2110,
+	"treeId": 43428
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 30.0,
+	"lat": 49.2291894,
+	"lon": -123.1566934,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2117,
+	"treeId": 43429
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 29.0,
+	"lat": 49.2288349,
+	"lon": -123.1569806,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2132,
+	"treeId": 43431
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 8.0,
+	"lat": 49.2292634,
+	"lon": -123.1569884,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2135,
+	"treeId": 43432
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2288245,
+	"lon": -123.1572559,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2140,
+	"treeId": 43433
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2291929,
+	"lon": -123.1572676,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2145,
+	"treeId": 43434
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2287587,
+	"lon": -123.1576639,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2158,
+	"treeId": 43435
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2292052,
+	"lon": -123.1574698,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2159,
+	"treeId": 43436
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 10.0,
+	"lat": 49.228762,
+	"lon": -123.1578741,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2160,
+	"treeId": 43437
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 8.0,
+	"lat": 49.2287653,
+	"lon": -123.1580842,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2170,
+	"treeId": 43438
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 32.0,
+	"lat": 49.2292008,
+	"lon": -123.157775,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2171,
+	"treeId": 43439
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.5,
+	"lat": 49.2287686,
+	"lon": -123.1582944,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2188,
+	"treeId": 43440
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 25.5,
+	"lat": 49.2292749,
+	"lon": -123.1580948,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2183,
+	"treeId": 43441
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 8.0,
+	"lat": 49.2287719,
+	"lon": -123.1584989,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2190,
+	"treeId": 43442
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.25,
+	"lat": 49.2292102,
+	"lon": -123.1583484,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2193,
+	"treeId": 43445
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 5.0,
+	"lat": 49.2292903,
+	"lon": -123.1589504,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2207,
+	"treeId": 43446
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 7.0,
+	"lat": 49.2292924,
+	"lon": -123.1590933,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2219,
+	"treeId": 43450
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 9.0,
+	"lat": 49.229294,
+	"lon": -123.1592313,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2233,
+	"treeId": 43451
+},
+{
+	"commonName": "EUROPEAN MOUNTAIN ASH",
+	"diameter": 10.0,
+	"lat": 49.229296,
+	"lon": -123.1593771,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2243,
+	"treeId": 43452
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 23.0,
+	"lat": 49.2291278,
+	"lon": -123.1597356,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2279,
+	"treeId": 43455
+},
+{
+	"commonName": "SUPERFORM NORWAY MAPLE",
+	"diameter": 6.5,
+	"lat": 49.2289489,
+	"lon": -123.1598404,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2288,
+	"treeId": 43460
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 21.0,
+	"lat": 49.2292716,
+	"lon": -123.1599046,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2291,
+	"treeId": 43464
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2293158,
+	"lon": -123.1603591,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2307,
+	"treeId": 43467
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.5,
+	"lat": 49.2292507,
+	"lon": -123.1606556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2339,
+	"treeId": 43472
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 36.5,
+	"lat": 49.2293227,
+	"lon": -123.1608832,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2355,
+	"treeId": 43475
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 20.5,
+	"lat": 49.2285261,
+	"lon": -123.1612922,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2370,
+	"treeId": 43477
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 17.0,
+	"lat": 49.2290654,
+	"lon": -123.161525,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALSAM ST",
+	"streetNumber": 6288,
+	"treeId": 43479
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 30.0,
+	"lat": 49.2292559,
+	"lon": -123.161802,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2407,
+	"treeId": 43483
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.5,
+	"lat": 49.2289893,
+	"lon": -123.1620895,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2426,
+	"treeId": 43489
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 11.0,
+	"lat": 49.229342,
+	"lon": -123.162765,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 47TH AV",
+	"streetNumber": 2491,
+	"treeId": 43497
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 12.0,
+	"lat": 49.227791,
+	"lon": -123.1525418,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2006,
+	"treeId": 43999
+},
+{
+	"commonName": "FULLMOON MAPLE",
+	"diameter": 16.0,
+	"lat": 49.2280778,
+	"lon": -123.1523223,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2011,
+	"treeId": 44003
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 12.0,
+	"lat": 49.2277935,
+	"lon": -123.1527561,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2016,
+	"treeId": 44012
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 8.0,
+	"lat": 49.2282415,
+	"lon": -123.1527649,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2017,
+	"treeId": 44013
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 9.0,
+	"lat": 49.2283159,
+	"lon": -123.1529232,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2023,
+	"treeId": 44014
+},
+{
+	"commonName": "RED OAK",
+	"diameter": 20.0,
+	"lat": 49.2277954,
+	"lon": -123.1529697,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2026,
+	"treeId": 44015
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 13.0,
+	"lat": 49.2280928,
+	"lon": -123.1531933,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2041,
+	"treeId": 44019
+},
+{
+	"commonName": "PACIFIC DOGWOOD",
+	"diameter": 21.0,
+	"lat": 49.2279337,
+	"lon": -123.1533469,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2046,
+	"treeId": 44020
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 13.0,
+	"lat": 49.2278023,
+	"lon": -123.1535129,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2048,
+	"treeId": 44023
+},
+{
+	"commonName": "VINE MAPLE",
+	"diameter": 4.0,
+	"lat": 49.2278052,
+	"lon": -123.1537492,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2050,
+	"treeId": 44024
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 13.0,
+	"lat": 49.2278088,
+	"lon": -123.1540699,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2060,
+	"treeId": 44027
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 12.0,
+	"lat": 49.2281001,
+	"lon": -123.1550769,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2070,
+	"treeId": 44030
+},
+{
+	"commonName": "ENGLISH OAK",
+	"diameter": 23.5,
+	"lat": 49.2283285,
+	"lon": -123.1538676,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2071,
+	"treeId": 44031
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 12.0,
+	"lat": 49.2281864,
+	"lon": -123.1541946,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2077,
+	"treeId": 44034
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 12.0,
+	"lat": 49.2283333,
+	"lon": -123.1543078,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2083,
+	"treeId": 44035
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 16.5,
+	"lat": 49.2279652,
+	"lon": -123.1569676,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2130,
+	"treeId": 44045
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 30.0,
+	"lat": 49.2283647,
+	"lon": -123.1569929,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2137,
+	"treeId": 44047
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 29.0,
+	"lat": 49.2279649,
+	"lon": -123.1574606,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2152,
+	"treeId": 44050
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 11.0,
+	"lat": 49.2280607,
+	"lon": -123.1579165,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2170,
+	"treeId": 44055
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 8.0,
+	"lat": 49.2278645,
+	"lon": -123.1580264,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2174,
+	"treeId": 44057
+},
+{
+	"commonName": "KATSURA TREE",
+	"diameter": 41.0,
+	"lat": 49.2283786,
+	"lon": -123.158048,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2181,
+	"treeId": 44059
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 27.0,
+	"lat": 49.2279938,
+	"lon": -123.1584549,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2190,
+	"treeId": 44062
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.5,
+	"lat": 49.2283847,
+	"lon": -123.1585095,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2193,
+	"treeId": 44065
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2278737,
+	"lon": -123.1585736,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 2196,
+	"treeId": 44069
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.0,
+	"lat": 49.2286357,
+	"lon": -123.1754651,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3133,
+	"treeId": 44074
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 18.25,
+	"lat": 49.2281604,
+	"lon": -123.1768518,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 48TH AV",
+	"streetNumber": 3240,
+	"treeId": 44081
+},
+{
+	"commonName": "BIGLEAF MAPLE",
+	"diameter": 33.5,
+	"lat": 49.2270901,
+	"lon": -123.1405706,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1525,
+	"treeId": 44920
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 28.5,
+	"lat": 49.2267185,
+	"lon": -123.1410094,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1562,
+	"treeId": 44923
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 18.5,
+	"lat": 49.2272515,
+	"lon": -123.1409562,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1575,
+	"treeId": 44924
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 27.0,
+	"lat": 49.2267148,
+	"lon": -123.14136,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1588,
+	"treeId": 44926
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.25,
+	"lat": 49.2272187,
+	"lon": -123.142498,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1607,
+	"treeId": 44932
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 21.5,
+	"lat": 49.2270954,
+	"lon": -123.1426776,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1617,
+	"treeId": 44933
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 12.0,
+	"lat": 49.2269637,
+	"lon": -123.1417871,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1612,
+	"treeId": 44935
+},
+{
+	"commonName": "AMERICAN ELM",
+	"diameter": 25.0,
+	"lat": 49.2267804,
+	"lon": -123.1423796,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1628,
+	"treeId": 44937
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 21.0,
+	"lat": 49.2269921,
+	"lon": -123.1433404,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1646,
+	"treeId": 44940
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 14.0,
+	"lat": 49.2266602,
+	"lon": -123.1433464,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1648,
+	"treeId": 44942
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2267463,
+	"lon": -123.143919,
+	"neighbourhood": "KERRISDALE",
+	"street": "ADERA ST",
+	"streetNumber": 6525,
+	"treeId": 44943
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 17.0,
+	"lat": 49.2266527,
+	"lon": -123.1445062,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1660,
+	"treeId": 44945
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 24.0,
+	"lat": 49.2270217,
+	"lon": -123.143672,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1661,
+	"treeId": 44946
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 24.0,
+	"lat": 49.2267216,
+	"lon": -123.1445821,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1670,
+	"treeId": 44952
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2268472,
+	"lon": -123.1453166,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1706,
+	"treeId": 44968
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 14.0,
+	"lat": 49.227121,
+	"lon": -123.1456142,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1715,
+	"treeId": 44969
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 16.5,
+	"lat": 49.2267859,
+	"lon": -123.1459942,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1728,
+	"treeId": 44971
+},
+{
+	"commonName": "CHERRY, PLUM OR PEACH SPECIES",
+	"diameter": 6.5,
+	"lat": 49.2271373,
+	"lon": -123.1458375,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1737,
+	"treeId": 44973
+},
+{
+	"commonName": "PURPLE LEAF SYCAMORE MAPLE",
+	"diameter": 18.0,
+	"lat": 49.227054,
+	"lon": -123.1465115,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 1761,
+	"treeId": 44977
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2570995,
+	"lon": -123.1602755,
+	"neighbourhood": "KERRISDALE",
+	"street": "BALSAM ST",
+	"streetNumber": 6508,
+	"treeId": 45082
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.0,
+	"lat": 49.2269888,
+	"lon": -123.161543,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2412,
+	"treeId": 45087
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.25,
+	"lat": 49.2269954,
+	"lon": -123.1623163,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2488,
+	"treeId": 45096
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 9.5,
+	"lat": 49.2270531,
+	"lon": -123.1628685,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2490,
+	"treeId": 45100
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2272379,
+	"lon": -123.1630277,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2500,
+	"treeId": 45104
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 31.0,
+	"lat": 49.2272529,
+	"lon": -123.1644815,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2610,
+	"treeId": 45109
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 11.5,
+	"lat": 49.2276131,
+	"lon": -123.1647429,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2609,
+	"treeId": 45124
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 9.5,
+	"lat": 49.2276227,
+	"lon": -123.1658263,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2693,
+	"treeId": 45133
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 12.0,
+	"lat": 49.2273889,
+	"lon": -123.1660195,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2709,
+	"treeId": 45134
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 11.5,
+	"lat": 49.227632,
+	"lon": -123.16655,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2749,
+	"treeId": 45141
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 9.0,
+	"lat": 49.2278068,
+	"lon": -123.1672773,
+	"neighbourhood": "KERRISDALE",
+	"street": "MACDONALD ST",
+	"streetNumber": 6488,
+	"treeId": 45146
+},
+{
+	"commonName": "GREEN ASH",
+	"diameter": 18.0,
+	"lat": 49.2274418,
+	"lon": -123.1682982,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2831,
+	"treeId": 45154
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 23.25,
+	"lat": 49.2275975,
+	"lon": -123.1692517,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2855,
+	"treeId": 45158
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 6.5,
+	"lat": 49.2270111,
+	"lon": -123.1688953,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2858,
+	"treeId": 45164
+},
+{
+	"commonName": "GREEN ASH",
+	"diameter": 12.5,
+	"lat": 49.2274105,
+	"lon": -123.1694837,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2867,
+	"treeId": 45165
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 10.0,
+	"lat": 49.2270169,
+	"lon": -123.1691879,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2876,
+	"treeId": 45166
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 8.5,
+	"lat": 49.2272257,
+	"lon": -123.1695611,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2898,
+	"treeId": 45167
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 7.0,
+	"lat": 49.2272345,
+	"lon": -123.1698713,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2908,
+	"treeId": 45171
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 10.0,
+	"lat": 49.2272249,
+	"lon": -123.1700426,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 2926,
+	"treeId": 45173
+},
+{
+	"commonName": "BIGLEAF MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2273782,
+	"lon": -123.1760643,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 3226,
+	"treeId": 45199
+},
+{
+	"commonName": "COMMON CATALPA",
+	"diameter": 32.0,
+	"lat": 49.2270911,
+	"lon": -123.1783279,
+	"neighbourhood": "KERRISDALE",
+	"street": "BLENHEIM ST",
+	"streetNumber": 6550,
+	"treeId": 45210
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 8.5,
+	"lat": 49.2277261,
+	"lon": -123.1778714,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 49TH AV",
+	"streetNumber": 3269,
+	"treeId": 45223
+},
+{
+	"commonName": "BRANDYWINE RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2184821,
+	"lon": -123.150188,
+	"neighbourhood": "KERRISDALE",
+	"street": "WEST BOULEVARD",
+	"streetNumber": 7375,
+	"treeId": 45555
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 24.5,
+	"lat": 49.2253537,
+	"lon": -123.1642026,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2610,
+	"treeId": 45647
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 18.5,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2611,
+	"treeId": 45653
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 18.5,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2621,
+	"treeId": 45657
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2258738,
+	"lon": -123.1649738,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2640,
+	"treeId": 45661
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 18.5,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2641,
+	"treeId": 45665
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 25.0,
+	"lat": 49.2259334,
+	"lon": -123.1653115,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2660,
+	"treeId": 45667
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2661,
+	"treeId": 45669
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 11.5,
+	"lat": 49.2259239,
+	"lon": -123.1661864,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2680,
+	"treeId": 45672
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2681,
+	"treeId": 45676
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2262679,
+	"lon": -123.1665333,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2706,
+	"treeId": 45682
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2707,
+	"treeId": 45683
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2262867,
+	"lon": -123.1669197,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2720,
+	"treeId": 45687
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 9.5,
+	"lat": 49.2263149,
+	"lon": -123.1673202,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2758,
+	"treeId": 45689
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 21.0,
+	"lat": 49.2258518,
+	"lon": -123.1373556,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2721,
+	"treeId": 45690
+},
+{
+	"commonName": "WEEPING JAPANESE CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2264022,
+	"lon": -123.1676261,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 50TH AV",
+	"streetNumber": 2796,
+	"treeId": 45696
+},
+{
+	"commonName": "ENGLISH HOLLY",
+	"diameter": 7.0,
+	"lat": 49.2249976,
+	"lon": -123.1452324,
+	"neighbourhood": "KERRISDALE",
+	"street": "MARGUERITE ST",
+	"streetNumber": 6699,
+	"treeId": 46190
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 12.0,
+	"lat": 49.2248023,
+	"lon": -123.145397,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 1706,
+	"treeId": 46194
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 6.0,
+	"lat": 49.2248629,
+	"lon": -123.1466483,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 1738,
+	"treeId": 46198
+},
+{
+	"commonName": "SIEBOLDS MAGNOLIA ",
+	"diameter": 5.5,
+	"lat": 49.2251404,
+	"lon": -123.1555332,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2107,
+	"treeId": 46200
+},
+{
+	"commonName": "CUCUMBER MAGNOLIA ",
+	"diameter": 6.5,
+	"lat": 49.2251965,
+	"lon": -123.1557454,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2115,
+	"treeId": 46202
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 22.5,
+	"lat": 49.2249719,
+	"lon": -123.1562231,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2126,
+	"treeId": 46208
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 15.0,
+	"lat": 49.2246551,
+	"lon": -123.1563219,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2132,
+	"treeId": 46209
+},
+{
+	"commonName": "SIEBOLDS MAGNOLIA ",
+	"diameter": 6.0,
+	"lat": 49.2251742,
+	"lon": -123.1564249,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2135,
+	"treeId": 46210
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 9.5,
+	"lat": 49.224658,
+	"lon": -123.156832,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2142,
+	"treeId": 46218
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.0,
+	"lat": 49.2248096,
+	"lon": -123.1572566,
+	"neighbourhood": "KERRISDALE",
+	"street": "BEECHWOOD ST",
+	"streetNumber": 6711,
+	"treeId": 46227
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2251546,
+	"lon": -123.1573392,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2157,
+	"treeId": 46232
+},
+{
+	"commonName": "JAPANESE FLOWERING CRABAPPLE",
+	"diameter": 3.0,
+	"lat": 49.2252359,
+	"lon": -123.1575138,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2163,
+	"treeId": 46238
+},
+{
+	"commonName": "CHINA GIRL DOGWOOD",
+	"diameter": 4.0,
+	"lat": 49.2251762,
+	"lon": -123.1580695,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2169,
+	"treeId": 46244
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2246655,
+	"lon": -123.1578835,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2170,
+	"treeId": 46245
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 28.0,
+	"lat": 49.2248498,
+	"lon": -123.1580901,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2178,
+	"treeId": 46247
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 27.0,
+	"lat": 49.2252317,
+	"lon": -123.1592219,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2209,
+	"treeId": 46250
+},
+{
+	"commonName": "NORWEGIAN SUNSET MAPLE ",
+	"diameter": 3.0,
+	"lat": 49.225281,
+	"lon": -123.1593432,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2225,
+	"treeId": 46252
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2252944,
+	"lon": -123.1599359,
+	"neighbourhood": "KERRISDALE",
+	"street": "VINE ST",
+	"streetNumber": 6688,
+	"treeId": 46257
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 9.5,
+	"lat": 49.2252564,
+	"lon": -123.1605012,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2335,
+	"treeId": 46259
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 9.5,
+	"lat": 49.2252358,
+	"lon": -123.1606882,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2345,
+	"treeId": 46260
+},
+{
+	"commonName": "CRIMSON KING NORWAY MAPLE",
+	"diameter": 15.0,
+	"lat": 49.2251596,
+	"lon": -123.1616093,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2405,
+	"treeId": 46262
+},
+{
+	"commonName": "CRIMSON KING NORWAY MAPLE",
+	"diameter": 13.0,
+	"lat": 49.2251666,
+	"lon": -123.1619143,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2437,
+	"treeId": 46272
+},
+{
+	"commonName": "ENGLISH WALNUT",
+	"diameter": 17.0,
+	"lat": 49.225313,
+	"lon": -123.1621631,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2461,
+	"treeId": 46276
+},
+{
+	"commonName": "APPLE SPECIES",
+	"diameter": 8.0,
+	"lat": 49.224922,
+	"lon": -123.1627445,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2480,
+	"treeId": 46278
+},
+{
+	"commonName": "ENGLISH WALNUT",
+	"diameter": 22.0,
+	"lat": 49.2251178,
+	"lon": -123.1638314,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 2487,
+	"treeId": 46283
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 10.0,
+	"lat": 49.2253302,
+	"lon": -123.1752837,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 51ST AV",
+	"streetNumber": 3138,
+	"treeId": 46285
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2322078,
+	"lon": -123.1556723,
+	"neighbourhood": "KERRISDALE",
+	"street": "WEST BOULEVARD",
+	"streetNumber": 5976,
+	"treeId": 46483
+},
+{
+	"commonName": "AUTUMN BLAZE RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2322078,
+	"lon": -123.1556723,
+	"neighbourhood": "KERRISDALE",
+	"street": "WEST BOULEVARD",
+	"streetNumber": 6002,
+	"treeId": 46491
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 10.5,
+	"lat": 49.2239647,
+	"lon": -123.1405634,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 52ND AV",
+	"streetNumber": 1526,
+	"treeId": 46715
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 9.5,
+	"lat": 49.2239608,
+	"lon": -123.141962,
+	"neighbourhood": "KERRISDALE",
+	"street": "CHURCHILL ST",
+	"streetNumber": 6823,
+	"treeId": 46720
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 8.0,
+	"lat": 49.2240281,
+	"lon": -123.1433032,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 52ND AV",
+	"streetNumber": 1638,
+	"treeId": 46725
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 11.0,
+	"lat": 49.2239125,
+	"lon": -123.1440968,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 52ND AV",
+	"streetNumber": 1662,
+	"treeId": 46730
+},
+{
+	"commonName": "NIGHT PURPLE LEAF PLUM",
+	"diameter": 5.5,
+	"lat": 49.2242361,
+	"lon": -123.1463793,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 52ND AV",
+	"streetNumber": 1739,
+	"treeId": 46736
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 3.25,
+	"lat": 49.2243973,
+	"lon": -123.146453,
+	"neighbourhood": "KERRISDALE",
+	"street": "WILTSHIRE ST",
+	"streetNumber": 6780,
+	"treeId": 46740
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 15.0,
+	"lat": 49.224068,
+	"lon": -123.1521175,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 52ND AV",
+	"streetNumber": 1990,
+	"treeId": 46746
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 8.0,
+	"lat": 49.2231079,
+	"lon": -123.1533862,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 2025,
+	"treeId": 47260
+},
+{
+	"commonName": "BIGLEAF MAPLE",
+	"diameter": 27.0,
+	"lat": 49.2231164,
+	"lon": -123.1543777,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 2061,
+	"treeId": 47264
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 13.0,
+	"lat": 49.222679,
+	"lon": -123.1560932,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 2144,
+	"treeId": 47272
+},
+{
+	"commonName": "VEITCH MAGNOLIA",
+	"diameter": 10.0,
+	"lat": 49.22258,
+	"lon": -123.1565678,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 2154,
+	"treeId": 47276
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 17.5,
+	"lat": 49.2230343,
+	"lon": -123.1573289,
+	"neighbourhood": "KERRISDALE",
+	"street": "BEECHWOOD ST",
+	"streetNumber": 6883,
+	"treeId": 47280
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 11.0,
+	"lat": 49.2234672,
+	"lon": -123.1760964,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 53RD AV",
+	"streetNumber": 3275,
+	"treeId": 47286
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 14.5,
+	"lat": 49.22191,
+	"lon": -123.1373889,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 54TH AV",
+	"streetNumber": 1383,
+	"treeId": 47988
+},
+{
+	"commonName": "FLOWERING DOGWOOD",
+	"diameter": 12.5,
+	"lat": 49.2217402,
+	"lon": -123.1428326,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 54TH AV",
+	"streetNumber": 1637,
+	"treeId": 48019
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 15.0,
+	"lat": 49.2215469,
+	"lon": -123.1439695,
+	"neighbourhood": "KERRISDALE",
+	"street": "ADERA ST",
+	"streetNumber": 7011,
+	"treeId": 48020
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2062009,
+	"lon": -123.1486166,
+	"neighbourhood": "KERRISDALE",
+	"street": "W 75TH AV",
+	"streetNumber": 1750,
+	"treeId": 248886
+}]}

@@ -1,0 +1,26 @@
+from django.conf.urls import patterns, url
+from hug import views
+
+urlpatterns = patterns('',
+        url(r'^$', views.index, name='index'),
+        url(r'^about/$', views.about, name='about'),
+        url(r'^register/$', views.register, name='register'),
+        url(r'^login/$', views.user_login, name='login'),
+        url(r'^restricted/', views.restricted, name='restricted'),
+        url(r'^logout/$', views.user_logout, name='logout'),
+        url(r'^profile/$', views.profile, name='profile'),
+        url(r'^tree/(?P<treeId>\w+)$', views.tree, name='tree'),
+        url(r'^foodtree/(?P<foodtree_name_slug>[\w\-]+)/$', views.foodtree, name='foodtree'),
+        url(r'^park/(?P<parkId>\w+)$', views.park, name='park'),
+        url(r'^t/(?P<entry_pk>\d+)$', views.add_fav, name='add_fav'),
+        url(r'^p/(?P<entry_pk>\d+)$', views.add_favp, name='add_favp'),
+        url(r'^f/(?P<entry_pk>[\w\-]+)$', views.add_favf, name='add_favf'),
+        url(r'^d/(?P<entry_pk>\d+)$', views.delete_fav, name='delete_fav'),
+        url(r'^v/(?P<entry_pk>[\w\-]+)$', views.delete_favf, name='delete_favf'),
+        url(r'^a/(?P<entry_pk>\d+)$', views.delete_favp, name='delete_favp'),
+        url(r'^favourites/$', views.favourites, name='favourites'),
+        url(r'^tree/(?P<treeId>\w+)/add_photo$', views.add_photot, name='add_photot'),
+        url(r'^park/(?P<parkId>\w+)/add_photo$', views.add_photop, name='add_photop'),
+        url(r'^foodtree/(?P<foodtree_name_slug>[\w\-]+)/add_photo$', views.add_photoft, name='add_photoft'),
+        url(r'^tag/(?P<tag_slug>[\w\-]+)/$', views.tag, name='tag'),
+)

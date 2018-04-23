@@ -1,0 +1,65 @@
+{% extends 'hug/base.html' %}
+{% load bootstrap3 %}
+
+{% block title %}add a photo of center of love no. {{parkId}}{% endblock %}
+
+
+{% block body_block %}
+
+<div class="row">
+    <div class="form-group col-xs-10 col-sm-10 col-md-6 col-lg-6 col-xs-offset-1 col-s-offset-1">
+
+        {% if added %}
+
+
+        <h4 class="add">your photo has been received and is pending approval!</h4>
+
+        <p><a href="/hug/park/{{parkId}}">Back to center of love no. {{parkId}}</a></p>
+    </div>
+</div>
+{% else %}
+
+{# Display a form #}
+   <h1 class="default">add a photo of center of love no. {{parkId}}</h1>
+
+<form id="photo_form" method="post" action="/hug/park/{{parkId}}/add_photo"
+      enctype="multipart/form-data">
+
+
+    {% csrf_token %}
+
+
+    {% csrf_token %}
+    {% for hidden in form.hidden_fields %}
+    {{ hidden }}
+    {% endfor %}
+
+    {% for field in form.visible_fields %}
+    <br/>
+
+    <p>{{ field.errors }}</p>
+
+    <p>{{ field.help_text }}</p>
+
+    <p>{{ field }}</p>
+    {% endfor %}
+
+    <!-- Provide a button to click to submit the form. -->
+      <p>
+        <button class="btn btn-sm btn-default add text-center"
+                type="submit" value="Submit"/> +
+        <span class="glyphicon glyphicon-tree-conifer green"></span> <span
+            class="glyphicon glyphicon-picture"></span>
+        </button>
+    </p>
+
+
+
+</form>
+
+{% endif %}
+
+
+</div>
+</div>
+{% endblock %}

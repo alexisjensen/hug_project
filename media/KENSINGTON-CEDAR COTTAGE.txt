@@ -1,0 +1,4502 @@
+{
+"trees": [ 
+{
+	"commonName": "VILLAGE GREEN ZELKOVA ",
+	"diameter": 2.25,
+	"lat": 49.2585289,
+	"lon": -123.0724008,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1554,
+	"treeId": 553
+},
+{
+	"commonName": "DAWYCK'S BEECH",
+	"diameter": 3.0,
+	"lat": 49.2498415,
+	"lon": -123.0749926,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "KINGSWAY",
+	"streetNumber": 1435,
+	"treeId": 986
+},
+{
+	"commonName": "SHIROFUGEN CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2514149,
+	"lon": -123.0718311,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "FLEMING ST",
+	"streetNumber": 3724,
+	"treeId": 1083
+},
+{
+	"commonName": "SHIROFUGEN CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2513571,
+	"lon": -123.0716205,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 21ST AV",
+	"streetNumber": 1612,
+	"treeId": 1084
+},
+{
+	"commonName": "EDDIES WHITE WONDER DOGWOOD ",
+	"diameter": 3.0,
+	"lat": 49.241171,
+	"lon": -123.069481,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 32ND AV",
+	"streetNumber": 1736,
+	"treeId": 1538
+},
+{
+	"commonName": "DOUGLAS FIR",
+	"diameter": 13.0,
+	"lat": 49.2367887,
+	"lon": -123.0872491,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "ST. CATHERINES ST",
+	"streetNumber": 5337,
+	"treeId": 1614
+},
+{
+	"commonName": "DOUGLAS FIR",
+	"diameter": 16.0,
+	"lat": 49.2367887,
+	"lon": -123.0872491,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "ST. CATHERINES ST",
+	"streetNumber": 5337,
+	"treeId": 1615
+},
+{
+	"commonName": "SPRUCE SPECIES",
+	"diameter": 33.0,
+	"lat": 49.2513194,
+	"lon": -123.0729444,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "DUMFRIES ST",
+	"streetNumber": 3738,
+	"treeId": 1705
+},
+{
+	"commonName": "DOUGLAS FIR",
+	"diameter": 28.0,
+	"lat": 49.2345352,
+	"lon": -123.0821221,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "ROSS ST",
+	"streetNumber": 5510,
+	"treeId": 1711
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 17.0,
+	"lat": 49.2357815,
+	"lon": -123.0787318,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "CULLODEN ST",
+	"streetNumber": 5379,
+	"treeId": 1714
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 8.0,
+	"lat": 49.2357815,
+	"lon": -123.0787318,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "CULLODEN ST",
+	"streetNumber": 5379,
+	"treeId": 1740
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 25.0,
+	"lat": 49.238437,
+	"lon": -123.0780281,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 35TH AV",
+	"streetNumber": 1348,
+	"treeId": 1767
+},
+{
+	"commonName": "PRINCETON GOLD MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2523291,
+	"lon": -123.0572922,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "COPLEY ST",
+	"streetNumber": 3479,
+	"treeId": 2742
+},
+{
+	"commonName": "SYCAMORE MAPLE",
+	"diameter": 7.0,
+	"lat": 49.2539184,
+	"lon": -123.0869728,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 19TH AV",
+	"streetNumber": 827,
+	"treeId": 3440
+},
+{
+	"commonName": "LAVALLEI HYBRID HAWTHORN",
+	"diameter": 3.0,
+	"lat": 49.244335,
+	"lon": -123.060909,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "GLADSTONE ST",
+	"streetNumber": 4602,
+	"treeId": 3560
+},
+{
+	"commonName": "DAWYCK'S BEECH",
+	"diameter": 3.0,
+	"lat": 49.2494825,
+	"lon": -123.0744256,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "KINGSWAY",
+	"streetNumber": 1455,
+	"treeId": 4101
+},
+{
+	"commonName": "DAWYCK'S BEECH",
+	"diameter": 3.0,
+	"lat": 49.2494825,
+	"lon": -123.0744256,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "KINGSWAY",
+	"streetNumber": 1455,
+	"treeId": 4102
+},
+{
+	"commonName": "GIANT SEQUOIA",
+	"diameter": 34.0,
+	"lat": 49.2521362,
+	"lon": -123.0653955,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "VICTORIA DRIVE",
+	"streetNumber": 3680,
+	"treeId": 4184
+},
+{
+	"commonName": "RED OAK",
+	"diameter": 16.0,
+	"lat": 49.2521362,
+	"lon": -123.0653955,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "VICTORIA DRIVE",
+	"streetNumber": 3680,
+	"treeId": 4189
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 39.5,
+	"lat": 49.2550944,
+	"lon": -123.0789033,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1236,
+	"treeId": 4289
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 29.0,
+	"lat": 49.2550944,
+	"lon": -123.0789033,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1236,
+	"treeId": 4298
+},
+{
+	"commonName": "EASTERN REDBUD",
+	"diameter": 3.0,
+	"lat": 49.2513503,
+	"lon": -123.0711485,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 21ST AV",
+	"streetNumber": 1632,
+	"treeId": 4560
+},
+{
+	"commonName": "EASTERN REDBUD",
+	"diameter": 3.0,
+	"lat": 49.2513485,
+	"lon": -123.0710365,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 21ST AV",
+	"streetNumber": 1638,
+	"treeId": 4563
+},
+{
+	"commonName": "EASTERN REDBUD",
+	"diameter": 3.0,
+	"lat": 49.2514532,
+	"lon": -123.0707537,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 21ST AV",
+	"streetNumber": 1662,
+	"treeId": 4569
+},
+{
+	"commonName": "VANESSA PERSIAN IRONWOOD",
+	"diameter": 3.5,
+	"lat": 49.2524858,
+	"lon": -123.0859781,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "ST. CATHERINES ST",
+	"streetNumber": 3631,
+	"treeId": 5499
+},
+{
+	"commonName": "RED SHINE FIELD MAPLE ",
+	"diameter": 3.5,
+	"lat": 49.2341499,
+	"lon": -123.0622729,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "GLADSTONE ST",
+	"streetNumber": 5595,
+	"treeId": 5574
+},
+{
+	"commonName": "PRINCETON GOLD MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2526889,
+	"lon": -123.057172,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "NANAIMO ST",
+	"streetNumber": 3453,
+	"treeId": 5709
+},
+{
+	"commonName": "PRINCETON GOLD MAPLE",
+	"diameter": 3.0,
+	"lat": 49.252597,
+	"lon": -123.057208,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "NANAIMO ST",
+	"streetNumber": 3459,
+	"treeId": 5715
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2329421,
+	"lon": -123.0740415,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1515,
+	"treeId": 5807
+},
+{
+	"commonName": "BOWHALL RED MAPLE",
+	"diameter": 3.0,
+	"lat": 49.2329974,
+	"lon": -123.0789145,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1333,
+	"treeId": 6192
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.0,
+	"lat": 49.232899,
+	"lon": -123.0738723,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1529,
+	"treeId": 6240
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.25,
+	"lat": 49.2329378,
+	"lon": -123.0736743,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1547,
+	"treeId": 6245
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.25,
+	"lat": 49.2329218,
+	"lon": -123.0725483,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1623,
+	"treeId": 6256
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.25,
+	"lat": 49.2328645,
+	"lon": -123.072394,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1635,
+	"treeId": 6258
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.25,
+	"lat": 49.232846,
+	"lon": -123.0722046,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1659,
+	"treeId": 6296
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 3.25,
+	"lat": 49.2328708,
+	"lon": -123.0720003,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1671,
+	"treeId": 6417
+},
+{
+	"commonName": "BOWHALL RED MAPLE",
+	"diameter": 2.75,
+	"lat": 49.232934,
+	"lon": -123.0786417,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1345,
+	"treeId": 6418
+},
+{
+	"commonName": "BOWHALL RED MAPLE",
+	"diameter": 2.75,
+	"lat": 49.2329345,
+	"lon": -123.0787397,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1339,
+	"treeId": 6419
+},
+{
+	"commonName": "AMERICAN HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2329974,
+	"lon": -123.0789145,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1333,
+	"treeId": 6421
+},
+{
+	"commonName": "BOWHALL RED MAPLE",
+	"diameter": 2.5,
+	"lat": 49.2328005,
+	"lon": -123.0789684,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1325,
+	"treeId": 6423
+},
+{
+	"commonName": "BOWHALL RED MAPLE",
+	"diameter": 2.5,
+	"lat": 49.2329133,
+	"lon": -123.0792902,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1311,
+	"treeId": 6424
+},
+{
+	"commonName": "BOWHALL RED MAPLE",
+	"diameter": 2.5,
+	"lat": 49.232934,
+	"lon": -123.0794894,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1307,
+	"treeId": 6426
+},
+{
+	"commonName": "COMMON HACKBERRY",
+	"diameter": 2.25,
+	"lat": 49.2329664,
+	"lon": -123.0804521,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1255,
+	"treeId": 6457
+},
+{
+	"commonName": "COMMON HACKBERRY",
+	"diameter": 2.25,
+	"lat": 49.2329468,
+	"lon": -123.0805481,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1243,
+	"treeId": 6458
+},
+{
+	"commonName": "COMMON HACKBERRY",
+	"diameter": 3.5,
+	"lat": 49.2329888,
+	"lon": -123.0810052,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "SHERBROOKE ST",
+	"streetNumber": 5688,
+	"treeId": 6459
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 4.0,
+	"lat": 49.2328331,
+	"lon": -123.0710133,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1717,
+	"treeId": 6470
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 5.25,
+	"lat": 49.232902,
+	"lon": -123.0708889,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1721,
+	"treeId": 6472
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 5.5,
+	"lat": 49.2329004,
+	"lon": -123.0707495,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1727,
+	"treeId": 6474
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 4.75,
+	"lat": 49.2328289,
+	"lon": -123.0706126,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1733,
+	"treeId": 6476
+},
+{
+	"commonName": "EMERALD QUEEN NORWAY MAPLE",
+	"diameter": 4.75,
+	"lat": 49.2328974,
+	"lon": -123.07047,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 41ST AV",
+	"streetNumber": 1739,
+	"treeId": 6479
+},
+{
+	"commonName": "SHIROFUGEN CHERRY",
+	"diameter": 3.0,
+	"lat": 49.2513577,
+	"lon": -123.0714096,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 21ST AV",
+	"streetNumber": 1620,
+	"treeId": 6570
+},
+{
+	"commonName": "EASTERN REDBUD",
+	"diameter": 3.0,
+	"lat": 49.2417379,
+	"lon": -123.0696922,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "BRUCE ST",
+	"streetNumber": 4793,
+	"treeId": 6578
+},
+{
+	"commonName": "DOUGLAS FIR",
+	"diameter": 23.0,
+	"lat": 49.2520594,
+	"lon": -123.0611116,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "LAKEWOOD DRIVE",
+	"streetNumber": 3533,
+	"treeId": 7002
+},
+{
+	"commonName": "SPANISH CHESTNUT",
+	"diameter": 18.0,
+	"lat": 49.242129,
+	"lon": -123.0739722,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "DUMFRIES ST",
+	"streetNumber": 4761,
+	"treeId": 7639
+},
+{
+	"commonName": "CHANTICLEER PEAR",
+	"diameter": 3.0,
+	"lat": 49.260184,
+	"lon": -123.0689311,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1736,
+	"treeId": 7864
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.5,
+	"lat": 49.2613141,
+	"lon": -123.0768865,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1324,
+	"treeId": 9193
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.0,
+	"lat": 49.2614542,
+	"lon": -123.077671,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1317,
+	"treeId": 9194
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.5,
+	"lat": 49.2614542,
+	"lon": -123.077671,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1325,
+	"treeId": 9195
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 19.0,
+	"lat": 49.2614542,
+	"lon": -123.077671,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1319,
+	"treeId": 9196
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 16.0,
+	"lat": 49.2618968,
+	"lon": -123.0764421,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1331,
+	"treeId": 9197
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.0,
+	"lat": 49.2614542,
+	"lon": -123.077671,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1345,
+	"treeId": 9198
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 21.0,
+	"lat": 49.2614552,
+	"lon": -123.0772717,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1351,
+	"treeId": 9199
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 21.25,
+	"lat": 49.2614552,
+	"lon": -123.0772717,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1371,
+	"treeId": 9201
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.5,
+	"lat": 49.2614552,
+	"lon": -123.0772717,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1381,
+	"treeId": 9202
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.0,
+	"lat": 49.2614552,
+	"lon": -123.0772717,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1375,
+	"treeId": 9203
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 26.0,
+	"lat": 49.2614303,
+	"lon": -123.0769677,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1332,
+	"treeId": 9204
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 28.5,
+	"lat": 49.261269,
+	"lon": -123.076531,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1344,
+	"treeId": 9205
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.0,
+	"lat": 49.2612232,
+	"lon": -123.076388,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1350,
+	"treeId": 9206
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.0,
+	"lat": 49.2612674,
+	"lon": -123.0758084,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1376,
+	"treeId": 9208
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 32.5,
+	"lat": 49.2616632,
+	"lon": -123.0755262,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1403,
+	"treeId": 9209
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 34.0,
+	"lat": 49.2613051,
+	"lon": -123.0754952,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1404,
+	"treeId": 9210
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 30.0,
+	"lat": 49.2612928,
+	"lon": -123.0754081,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1410,
+	"treeId": 9211
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 27.5,
+	"lat": 49.2616597,
+	"lon": -123.0753943,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1411,
+	"treeId": 9212
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 34.0,
+	"lat": 49.2612122,
+	"lon": -123.0752678,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1416,
+	"treeId": 9213
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 32.0,
+	"lat": 49.2616602,
+	"lon": -123.075261,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1417,
+	"treeId": 9214
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 26.5,
+	"lat": 49.2614259,
+	"lon": -123.0753329,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1418,
+	"treeId": 9215
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 22.5,
+	"lat": 49.261658,
+	"lon": -123.0751228,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1423,
+	"treeId": 9216
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.5,
+	"lat": 49.2611656,
+	"lon": -123.0751329,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1424,
+	"treeId": 9217
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 26.0,
+	"lat": 49.2614246,
+	"lon": -123.0748914,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1432,
+	"treeId": 9218
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 24.5,
+	"lat": 49.2615931,
+	"lon": -123.0749749,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1437,
+	"treeId": 9219
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 28.5,
+	"lat": 49.2616551,
+	"lon": -123.0748354,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1439,
+	"treeId": 9220
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 21.0,
+	"lat": 49.2614484,
+	"lon": -123.074779,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1443,
+	"treeId": 9221
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 31.5,
+	"lat": 49.2616566,
+	"lon": -123.0745619,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1449,
+	"treeId": 9223
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 23.0,
+	"lat": 49.2616544,
+	"lon": -123.0744293,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1455,
+	"treeId": 9224
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 29.5,
+	"lat": 49.2612101,
+	"lon": -123.0744487,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1456,
+	"treeId": 9225
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.0,
+	"lat": 49.2611382,
+	"lon": -123.0743091,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1462,
+	"treeId": 9226
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 22.0,
+	"lat": 49.2616532,
+	"lon": -123.0742898,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1463,
+	"treeId": 9228
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 27.0,
+	"lat": 49.2616524,
+	"lon": -123.0741427,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1469,
+	"treeId": 9229
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 28.0,
+	"lat": 49.2611379,
+	"lon": -123.0741607,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1470,
+	"treeId": 9230
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.5,
+	"lat": 49.2613312,
+	"lon": -123.0740235,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1472,
+	"treeId": 9231
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 35.0,
+	"lat": 49.2611947,
+	"lon": -123.0738701,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1492,
+	"treeId": 9232
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 21.5,
+	"lat": 49.2614068,
+	"lon": -123.0733413,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1502,
+	"treeId": 9235
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 11.0,
+	"lat": 49.2612089,
+	"lon": -123.0731326,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1516,
+	"treeId": 9238
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 28.0,
+	"lat": 49.261549,
+	"lon": -123.0730305,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1523,
+	"treeId": 9239
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 19.0,
+	"lat": 49.2613998,
+	"lon": -123.0728372,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1528,
+	"treeId": 9240
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 28.0,
+	"lat": 49.2614288,
+	"lon": -123.0731939,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1529,
+	"treeId": 9241
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2612302,
+	"lon": -123.0728487,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1538,
+	"treeId": 9242
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 15.0,
+	"lat": 49.261338,
+	"lon": -123.0728997,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1536,
+	"treeId": 9243
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.0,
+	"lat": 49.2612436,
+	"lon": -123.0726654,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1546,
+	"treeId": 9244
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 21.5,
+	"lat": 49.2615285,
+	"lon": -123.0724978,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1551,
+	"treeId": 9245
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 18.0,
+	"lat": 49.2613947,
+	"lon": -123.0724609,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1554,
+	"treeId": 9246
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 18.0,
+	"lat": 49.2611179,
+	"lon": -123.0723382,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1556,
+	"treeId": 9247
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.5,
+	"lat": 49.2615131,
+	"lon": -123.0722947,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1563,
+	"treeId": 9248
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 17.25,
+	"lat": 49.2611153,
+	"lon": -123.0721683,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1564,
+	"treeId": 9249
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 30.0,
+	"lat": 49.2615746,
+	"lon": -123.0721221,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1565,
+	"treeId": 9251
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.5,
+	"lat": 49.2612898,
+	"lon": -123.0720582,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1572,
+	"treeId": 9252
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 25.25,
+	"lat": 49.2616416,
+	"lon": -123.0719995,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1573,
+	"treeId": 9253
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.5,
+	"lat": 49.2613869,
+	"lon": -123.0718936,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1588,
+	"treeId": 9254
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 16.0,
+	"lat": 49.2611133,
+	"lon": -123.0718063,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1580,
+	"treeId": 9255
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 18.0,
+	"lat": 49.2615277,
+	"lon": -123.0718667,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1581,
+	"treeId": 9256
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.5,
+	"lat": 49.2611194,
+	"lon": -123.071494,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1610,
+	"treeId": 9259
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.5,
+	"lat": 49.2616393,
+	"lon": -123.0714236,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1611,
+	"treeId": 9260
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 20.5,
+	"lat": 49.2611099,
+	"lon": -123.0713479,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1618,
+	"treeId": 9261
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2616376,
+	"lon": -123.0711576,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1627,
+	"treeId": 9263
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 19.0,
+	"lat": 49.2616355,
+	"lon": -123.0710023,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1629,
+	"treeId": 9264
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 14.5,
+	"lat": 49.2611975,
+	"lon": -123.0705243,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1658,
+	"treeId": 9266
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 25.0,
+	"lat": 49.2616347,
+	"lon": -123.0707329,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1655,
+	"treeId": 9267
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 19.0,
+	"lat": 49.2616339,
+	"lon": -123.0705941,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1659,
+	"treeId": 9268
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 24.0,
+	"lat": 49.2613843,
+	"lon": -123.0699665,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1661,
+	"treeId": 9269
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 22.8,
+	"lat": 49.2612178,
+	"lon": -123.0704611,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1668,
+	"treeId": 9270
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2611681,
+	"lon": -123.0685854,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1750,
+	"treeId": 9271
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 2.5,
+	"lat": 49.261365,
+	"lon": -123.0678296,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1801,
+	"treeId": 9275
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 10.5,
+	"lat": 49.2610883,
+	"lon": -123.0676865,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1810,
+	"treeId": 9276
+},
+{
+	"commonName": "THORNLESS HONEYLOCUST",
+	"diameter": 33.0,
+	"lat": 49.2613646,
+	"lon": -123.0677242,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1807,
+	"treeId": 9278
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 11.25,
+	"lat": 49.2613644,
+	"lon": -123.0676539,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1811,
+	"treeId": 9279
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2613614,
+	"lon": -123.0670914,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1843,
+	"treeId": 9282
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 10.0,
+	"lat": 49.2612301,
+	"lon": -123.0669402,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1842,
+	"treeId": 9284
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 23.0,
+	"lat": 49.2614856,
+	"lon": -123.0668754,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1865,
+	"treeId": 9285
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 15.5,
+	"lat": 49.2615027,
+	"lon": -123.0664165,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 1883,
+	"treeId": 9288
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 9.0,
+	"lat": 49.2615685,
+	"lon": -123.0633193,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2025,
+	"treeId": 9293
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 8.0,
+	"lat": 49.2615643,
+	"lon": -123.062819,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2057,
+	"treeId": 9294
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 18.5,
+	"lat": 49.2612675,
+	"lon": -123.0615717,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2118,
+	"treeId": 9296
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 12.5,
+	"lat": 49.2613124,
+	"lon": -123.0611684,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2136,
+	"treeId": 9299
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 34.0,
+	"lat": 49.2610381,
+	"lon": -123.0610337,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2144,
+	"treeId": 9300
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 14.0,
+	"lat": 49.261342,
+	"lon": -123.0621365,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2101,
+	"treeId": 9301
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 18.5,
+	"lat": 49.261342,
+	"lon": -123.0621365,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2117,
+	"treeId": 9302
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 18.5,
+	"lat": 49.261342,
+	"lon": -123.0621365,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2123,
+	"treeId": 9303
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 7.0,
+	"lat": 49.261342,
+	"lon": -123.0621365,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2147,
+	"treeId": 9304
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 13.0,
+	"lat": 49.2613287,
+	"lon": -123.060054,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2161,
+	"treeId": 9305
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 7.25,
+	"lat": 49.261329,
+	"lon": -123.060054,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2181,
+	"treeId": 9306
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 13.0,
+	"lat": 49.2613287,
+	"lon": -123.060054,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2199,
+	"treeId": 9307
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 22.0,
+	"lat": 49.2610356,
+	"lon": -123.0607617,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2156,
+	"treeId": 9308
+},
+{
+	"commonName": "AMERICAN ELM",
+	"diameter": 31.0,
+	"lat": 49.2610343,
+	"lon": -123.0606236,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2162,
+	"treeId": 9309
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 19.0,
+	"lat": 49.2611451,
+	"lon": -123.0605148,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2182,
+	"treeId": 9310
+},
+{
+	"commonName": "WESTERN RED CEDAR",
+	"diameter": 16.0,
+	"lat": 49.2613066,
+	"lon": -123.0602496,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2192,
+	"treeId": 9311
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 16.0,
+	"lat": 49.2612684,
+	"lon": -123.0599479,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2206,
+	"treeId": 9317
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 12.8,
+	"lat": 49.2611423,
+	"lon": -123.0596134,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2218,
+	"treeId": 9321
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 15.75,
+	"lat": 49.2614794,
+	"lon": -123.0595199,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2221,
+	"treeId": 9322
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 20.0,
+	"lat": 49.2611475,
+	"lon": -123.0593526,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2234,
+	"treeId": 9323
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 17.0,
+	"lat": 49.2611734,
+	"lon": -123.0590074,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2250,
+	"treeId": 9324
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 29.5,
+	"lat": 49.2610186,
+	"lon": -123.0587915,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 10TH AV",
+	"streetNumber": 2260,
+	"treeId": 9325
+},
+{
+	"commonName": "GLOBEHEAD NORWAY MAPLE",
+	"diameter": 5.0,
+	"lat": 49.2491822,
+	"lon": -123.0803431,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "INVERNESS ST",
+	"streetNumber": 3995,
+	"treeId": 9397
+},
+{
+	"commonName": "PINE SPECIES",
+	"diameter": 6.5,
+	"lat": 49.2451754,
+	"lon": -123.0816864,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 28TH AV",
+	"streetNumber": 1144,
+	"treeId": 9407
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 14.0,
+	"lat": 49.2604004,
+	"lon": -123.0771184,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1308,
+	"treeId": 10508
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 12.5,
+	"lat": 49.260366,
+	"lon": -123.0766316,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1336,
+	"treeId": 10511
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 13.5,
+	"lat": 49.2602557,
+	"lon": -123.0765272,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1346,
+	"treeId": 10512
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 12.5,
+	"lat": 49.2603343,
+	"lon": -123.0763117,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1356,
+	"treeId": 10513
+},
+{
+	"commonName": "DR. PIRONE'S ASH",
+	"diameter": 16.0,
+	"lat": 49.2602528,
+	"lon": -123.0761087,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1360,
+	"treeId": 10514
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 13.0,
+	"lat": 49.260252,
+	"lon": -123.0759665,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1368,
+	"treeId": 10515
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 11.5,
+	"lat": 49.2605648,
+	"lon": -123.0774006,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1377,
+	"treeId": 10516
+},
+{
+	"commonName": "DR. PIRONE'S ASH",
+	"diameter": 12.5,
+	"lat": 49.2602998,
+	"lon": -123.0756638,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1380,
+	"treeId": 10526
+},
+{
+	"commonName": "DR. PIRONE'S ASH",
+	"diameter": 13.0,
+	"lat": 49.2602464,
+	"lon": -123.0755708,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1390,
+	"treeId": 10527
+},
+{
+	"commonName": "DR. PIRONE'S ASH",
+	"diameter": 14.0,
+	"lat": 49.2602927,
+	"lon": -123.0749818,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1400,
+	"treeId": 10528
+},
+{
+	"commonName": "DR. PIRONE'S ASH",
+	"diameter": 14.0,
+	"lat": 49.2602733,
+	"lon": -123.074393,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1452,
+	"treeId": 10531
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 20.75,
+	"lat": 49.2606543,
+	"lon": -123.0740214,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1475,
+	"treeId": 10532
+},
+{
+	"commonName": "ORIENTAL PLANE TREE",
+	"diameter": 25.5,
+	"lat": 49.2603803,
+	"lon": -123.073351,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1510,
+	"treeId": 10537
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 5.5,
+	"lat": 49.2603483,
+	"lon": -123.0730739,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1516,
+	"treeId": 10539
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.0,
+	"lat": 49.2607472,
+	"lon": -123.0732123,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1521,
+	"treeId": 10540
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2604539,
+	"lon": -123.0729498,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1530,
+	"treeId": 10541
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 11.75,
+	"lat": 49.2606234,
+	"lon": -123.0729644,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1531,
+	"treeId": 10542
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 9.0,
+	"lat": 49.2607443,
+	"lon": -123.0727651,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1537,
+	"treeId": 10543
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 10.0,
+	"lat": 49.2604468,
+	"lon": -123.0726168,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1542,
+	"treeId": 10545
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 11.0,
+	"lat": 49.2602134,
+	"lon": -123.0723781,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1556,
+	"treeId": 10548
+},
+{
+	"commonName": "COMMON HORSECHESTNUT",
+	"diameter": 32.5,
+	"lat": 49.2603663,
+	"lon": -123.0723398,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1560,
+	"treeId": 10549
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2602083,
+	"lon": -123.0718716,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1580,
+	"treeId": 10551
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2606915,
+	"lon": -123.0717705,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1605,
+	"treeId": 10557
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.0,
+	"lat": 49.2606332,
+	"lon": -123.0714237,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1619,
+	"treeId": 10559
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 15.0,
+	"lat": 49.260165,
+	"lon": -123.0713214,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1622,
+	"treeId": 10560
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 17.0,
+	"lat": 49.2606437,
+	"lon": -123.0711657,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1623,
+	"treeId": 10561
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.5,
+	"lat": 49.2602053,
+	"lon": -123.0711895,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1630,
+	"treeId": 10562
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 17.0,
+	"lat": 49.2604819,
+	"lon": -123.0699837,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 1665,
+	"treeId": 10568
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 3.75,
+	"lat": 49.2392363,
+	"lon": -123.0341314,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "VANNESS AV",
+	"streetNumber": 2399,
+	"treeId": 10577
+},
+{
+	"commonName": "FLOWERING ASH",
+	"diameter": 2.5,
+	"lat": 49.2392353,
+	"lon": -123.0341291,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "VANNESS AV",
+	"streetNumber": 2301,
+	"treeId": 10578
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.5,
+	"lat": 49.2605677,
+	"lon": -123.0606579,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 2161,
+	"treeId": 10583
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.0,
+	"lat": 49.2602699,
+	"lon": -123.0604423,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 2178,
+	"treeId": 10585
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 16.5,
+	"lat": 49.260653,
+	"lon": -123.0603797,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 2191,
+	"treeId": 10589
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 12.75,
+	"lat": 49.2602227,
+	"lon": -123.0578046,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 11TH AV",
+	"streetNumber": 2310,
+	"treeId": 10595
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.5,
+	"lat": 49.2550823,
+	"lon": -123.0780889,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1296,
+	"treeId": 11031
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2550845,
+	"lon": -123.0782206,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1286,
+	"treeId": 11033
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2551765,
+	"lon": -123.0783488,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1264,
+	"treeId": 11034
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2551451,
+	"lon": -123.0785442,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1256,
+	"treeId": 11035
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2550905,
+	"lon": -123.0786278,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1250,
+	"treeId": 11036
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2550965,
+	"lon": -123.0790407,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1230,
+	"treeId": 11037
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.5,
+	"lat": 49.2552005,
+	"lon": -123.0791897,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1228,
+	"treeId": 11039
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2556127,
+	"lon": -123.0793316,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1215,
+	"treeId": 11040
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2554914,
+	"lon": -123.0795413,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1205,
+	"treeId": 11041
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2551512,
+	"lon": -123.0793854,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1216,
+	"treeId": 11042
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2551917,
+	"lon": -123.0795561,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1208,
+	"treeId": 11043
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 14.0,
+	"lat": 49.2595508,
+	"lon": -123.0700081,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 12TH AV",
+	"streetNumber": 1690,
+	"treeId": 11575
+},
+{
+	"commonName": "COLUMNAR NORWAY MAPLE",
+	"diameter": 3.0,
+	"lat": 49.259711,
+	"lon": -123.0661548,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 12TH AV",
+	"streetNumber": 1895,
+	"treeId": 11582
+},
+{
+	"commonName": "COMMOM JUNIPER",
+	"diameter": 8.5,
+	"lat": 49.2594858,
+	"lon": -123.0582101,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 12TH AV",
+	"streetNumber": 2321,
+	"treeId": 11588
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.5,
+	"lat": 49.2436757,
+	"lon": -123.0890567,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 30TH AV",
+	"streetNumber": 745,
+	"treeId": 12404
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.5,
+	"lat": 49.2437428,
+	"lon": -123.088482,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 30TH AV",
+	"streetNumber": 771,
+	"treeId": 12405
+},
+{
+	"commonName": "LAVALLEI HYBRID HAWTHORN",
+	"diameter": 3.5,
+	"lat": 49.2507947,
+	"lon": -123.0879402,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 22ND AV",
+	"streetNumber": 796,
+	"treeId": 12416
+},
+{
+	"commonName": "LAVALLEI HYBRID HAWTHORN",
+	"diameter": 3.25,
+	"lat": 49.2506986,
+	"lon": -123.0874954,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 22ND AV",
+	"streetNumber": 808,
+	"treeId": 12531
+},
+{
+	"commonName": "LAVALLEI HYBRID HAWTHORN",
+	"diameter": 3.25,
+	"lat": 49.2500782,
+	"lon": -123.0876182,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 23RD AV",
+	"streetNumber": 803,
+	"treeId": 12657
+},
+{
+	"commonName": "LAVALLEI HYBRID HAWTHORN",
+	"diameter": 3.25,
+	"lat": 49.2502405,
+	"lon": -123.0879482,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 23RD AV",
+	"streetNumber": 795,
+	"treeId": 12682
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 37.0,
+	"lat": 49.2588314,
+	"lon": -123.0768409,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1329,
+	"treeId": 12845
+},
+{
+	"commonName": "CHINA GIRL DOGWOOD",
+	"diameter": 3.5,
+	"lat": 49.2587681,
+	"lon": -123.0762858,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1355,
+	"treeId": 12871
+},
+{
+	"commonName": "JAPANESE SNOWBELL",
+	"diameter": 2.75,
+	"lat": 49.2587155,
+	"lon": -123.0774489,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1308,
+	"treeId": 12872
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 24.25,
+	"lat": 49.2586968,
+	"lon": -123.0734157,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1505,
+	"treeId": 12873
+},
+{
+	"commonName": "PYRAMIDAL BEECH",
+	"diameter": 8.0,
+	"lat": 49.2588429,
+	"lon": -123.0732202,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1515,
+	"treeId": 12874
+},
+{
+	"commonName": "PYRAMIDAL BEECH",
+	"diameter": 11.5,
+	"lat": 49.2589281,
+	"lon": -123.0729424,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1533,
+	"treeId": 12875
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 12.5,
+	"lat": 49.258541,
+	"lon": -123.0726024,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1544,
+	"treeId": 12876
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 15.0,
+	"lat": 49.2585263,
+	"lon": -123.072512,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1550,
+	"treeId": 12877
+},
+{
+	"commonName": "PYRAMIDAL BEECH",
+	"diameter": 10.0,
+	"lat": 49.2584056,
+	"lon": -123.072025,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1572,
+	"treeId": 12878
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 18.0,
+	"lat": 49.2589226,
+	"lon": -123.0716808,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1603,
+	"treeId": 12881
+},
+{
+	"commonName": "PYRAMIDAL BEECH",
+	"diameter": 9.0,
+	"lat": 49.2584019,
+	"lon": -123.0715694,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1604,
+	"treeId": 12882
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 17.0,
+	"lat": 49.2586881,
+	"lon": -123.0715213,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1607,
+	"treeId": 12883
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 14.0,
+	"lat": 49.2584019,
+	"lon": -123.0714018,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1618,
+	"treeId": 12884
+},
+{
+	"commonName": "PYRAMIDAL BEECH",
+	"diameter": 12.0,
+	"lat": 49.2585395,
+	"lon": -123.071197,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1626,
+	"treeId": 12885
+},
+{
+	"commonName": "PYRAMIDAL BEECH",
+	"diameter": 14.0,
+	"lat": 49.2589189,
+	"lon": -123.0711242,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1629,
+	"treeId": 12886
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 18.75,
+	"lat": 49.2585313,
+	"lon": -123.0709797,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1630,
+	"treeId": 12887
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 19.0,
+	"lat": 49.258551,
+	"lon": -123.0709538,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1634,
+	"treeId": 12888
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 18.0,
+	"lat": 49.2589175,
+	"lon": -123.0709881,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1635,
+	"treeId": 12889
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 7.0,
+	"lat": 49.2586723,
+	"lon": -123.0696406,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1737,
+	"treeId": 12896
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2588603,
+	"lon": -123.0687366,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1741,
+	"treeId": 12897
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 18.5,
+	"lat": 49.2588211,
+	"lon": -123.0686492,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1745,
+	"treeId": 12898
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.5,
+	"lat": 49.258646,
+	"lon": -123.0693299,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1754,
+	"treeId": 12899
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2587291,
+	"lon": -123.0683756,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1755,
+	"treeId": 12900
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 32.0,
+	"lat": 49.2583759,
+	"lon": -123.0684174,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1760,
+	"treeId": 12901
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.0,
+	"lat": 49.2583751,
+	"lon": -123.0681329,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1774,
+	"treeId": 12902
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2587919,
+	"lon": -123.068028,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1777,
+	"treeId": 12903
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 33.5,
+	"lat": 49.2588889,
+	"lon": -123.0678526,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1787,
+	"treeId": 12904
+},
+{
+	"commonName": "BLOODGOOD PLANE TREE",
+	"diameter": 4.0,
+	"lat": 49.258373,
+	"lon": -123.0679955,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1784,
+	"treeId": 12905
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.5,
+	"lat": 49.2588868,
+	"lon": -123.0677152,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1807,
+	"treeId": 12906
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2588865,
+	"lon": -123.0674367,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1817,
+	"treeId": 12907
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2586277,
+	"lon": -123.0673414,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1826,
+	"treeId": 12908
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 29.5,
+	"lat": 49.2587626,
+	"lon": -123.0671206,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1833,
+	"treeId": 12909
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.5,
+	"lat": 49.2584923,
+	"lon": -123.0670886,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1836,
+	"treeId": 12910
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.0,
+	"lat": 49.2583524,
+	"lon": -123.0669668,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1846,
+	"treeId": 12911
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.0,
+	"lat": 49.2588926,
+	"lon": -123.0668878,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1849,
+	"treeId": 12912
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 31.0,
+	"lat": 49.2587768,
+	"lon": -123.0666785,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1851,
+	"treeId": 12913
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 33.5,
+	"lat": 49.2583494,
+	"lon": -123.06676,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1856,
+	"treeId": 12914
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.258605,
+	"lon": -123.065178,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1930,
+	"treeId": 12915
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2584352,
+	"lon": -123.065019,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1938,
+	"treeId": 12916
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.258873,
+	"lon": -123.0650455,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1945,
+	"treeId": 12917
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2584602,
+	"lon": -123.0647489,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1956,
+	"treeId": 12918
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.0,
+	"lat": 49.2588717,
+	"lon": -123.0649074,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1957,
+	"treeId": 12919
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 35.0,
+	"lat": 49.2583511,
+	"lon": -123.0646338,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1978,
+	"treeId": 12920
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 33.0,
+	"lat": 49.2588709,
+	"lon": -123.0647693,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1967,
+	"treeId": 12921
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.0,
+	"lat": 49.2588697,
+	"lon": -123.0646305,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1977,
+	"treeId": 12922
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2587823,
+	"lon": -123.0644999,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1987,
+	"treeId": 12923
+},
+{
+	"commonName": "HEDGE MAPLE",
+	"diameter": 15.0,
+	"lat": 49.2583472,
+	"lon": -123.0642704,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1998,
+	"treeId": 12925
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.0,
+	"lat": 49.2584479,
+	"lon": -123.0643634,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 1988,
+	"treeId": 12926
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 32.0,
+	"lat": 49.2583434,
+	"lon": -123.0638526,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2002,
+	"treeId": 12927
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 33.0,
+	"lat": 49.2588607,
+	"lon": -123.063845,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2005,
+	"treeId": 12928
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2587646,
+	"lon": -123.0636621,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2015,
+	"treeId": 12929
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2587652,
+	"lon": -123.0635256,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2017,
+	"treeId": 12930
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2587214,
+	"lon": -123.0632487,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2029,
+	"treeId": 12931
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 28.0,
+	"lat": 49.2583388,
+	"lon": -123.0633002,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2030,
+	"treeId": 12932
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2587674,
+	"lon": -123.063065,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2039,
+	"treeId": 12933
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 32.0,
+	"lat": 49.2583375,
+	"lon": -123.0631591,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2038,
+	"treeId": 12934
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 26.0,
+	"lat": 49.2584234,
+	"lon": -123.0629269,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2044,
+	"treeId": 12935
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2587746,
+	"lon": -123.063007,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2047,
+	"treeId": 12936
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2584109,
+	"lon": -123.0628128,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2050,
+	"treeId": 12937
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2584527,
+	"lon": -123.0625846,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2068,
+	"treeId": 12941
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 24.0,
+	"lat": 49.2587769,
+	"lon": -123.062446,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2079,
+	"treeId": 12942
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.5,
+	"lat": 49.2584158,
+	"lon": -123.0619532,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "LAKEWOOD DRIVE",
+	"streetNumber": 2950,
+	"treeId": 12944
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 4.0,
+	"lat": 49.2584182,
+	"lon": -123.0617387,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2112,
+	"treeId": 12945
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2583277,
+	"lon": -123.0613686,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2136,
+	"treeId": 12948
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.0,
+	"lat": 49.2587549,
+	"lon": -123.0612522,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2137,
+	"treeId": 12949
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 18.5,
+	"lat": 49.2587533,
+	"lon": -123.061114,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2149,
+	"treeId": 12950
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2584246,
+	"lon": -123.0609482,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2156,
+	"treeId": 12951
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 27.0,
+	"lat": 49.2588361,
+	"lon": -123.0609356,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2159,
+	"treeId": 12952
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 19.0,
+	"lat": 49.2584328,
+	"lon": -123.0606826,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2168,
+	"treeId": 12953
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 33.0,
+	"lat": 49.2587526,
+	"lon": -123.0607723,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2171,
+	"treeId": 12954
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 22.5,
+	"lat": 49.2588336,
+	"lon": -123.0605975,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2181,
+	"treeId": 12955
+},
+{
+	"commonName": "NORWAY MAPLE",
+	"diameter": 20.0,
+	"lat": 49.2584123,
+	"lon": -123.060323,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 13TH AV",
+	"streetNumber": 2192,
+	"treeId": 12956
+},
+{
+	"commonName": "AMERICAN HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2489339,
+	"lon": -123.0875139,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "PRINCE ALBERT ST",
+	"streetNumber": 4020,
+	"treeId": 13378
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2488326,
+	"lon": -123.0874151,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "PRINCE ALBERT ST",
+	"streetNumber": 4030,
+	"treeId": 13379
+},
+{
+	"commonName": "JAPANESE HORNBEAM",
+	"diameter": 3.25,
+	"lat": 49.2487395,
+	"lon": -123.0874183,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "PRINCE ALBERT ST",
+	"streetNumber": 4040,
+	"treeId": 13395
+},
+{
+	"commonName": "GRAY BIRCH",
+	"diameter": 21.0,
+	"lat": 49.2580462,
+	"lon": -123.0753173,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1415,
+	"treeId": 14320
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 41.0,
+	"lat": 49.2580462,
+	"lon": -123.0751819,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1421,
+	"treeId": 14322
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.25,
+	"lat": 49.2574528,
+	"lon": -123.0686881,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1748,
+	"treeId": 14344
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.0,
+	"lat": 49.2578777,
+	"lon": -123.068512,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1757,
+	"treeId": 14345
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2574723,
+	"lon": -123.068424,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1760,
+	"treeId": 14346
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.5,
+	"lat": 49.2574715,
+	"lon": -123.0682872,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1762,
+	"treeId": 14347
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.25,
+	"lat": 49.257896,
+	"lon": -123.0682907,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1765,
+	"treeId": 14348
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.0,
+	"lat": 49.2574707,
+	"lon": -123.0681512,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1778,
+	"treeId": 14349
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.25,
+	"lat": 49.2578916,
+	"lon": -123.0681053,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1781,
+	"treeId": 14350
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.25,
+	"lat": 49.2574704,
+	"lon": -123.0680068,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1784,
+	"treeId": 14351
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2578708,
+	"lon": -123.0682663,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1785,
+	"treeId": 14352
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.0,
+	"lat": 49.257738,
+	"lon": -123.0682546,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1810,
+	"treeId": 14353
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2578508,
+	"lon": -123.0676882,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1811,
+	"treeId": 14354
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2575597,
+	"lon": -123.0675746,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1816,
+	"treeId": 14355
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.0,
+	"lat": 49.2577497,
+	"lon": -123.0675103,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1821,
+	"treeId": 14356
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2578939,
+	"lon": -123.0674709,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1823,
+	"treeId": 14357
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.0,
+	"lat": 49.2577248,
+	"lon": -123.0674255,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1824,
+	"treeId": 14358
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.25,
+	"lat": 49.257899,
+	"lon": -123.0673396,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1829,
+	"treeId": 14359
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.25,
+	"lat": 49.2574644,
+	"lon": -123.0673505,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1830,
+	"treeId": 14360
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2578857,
+	"lon": -123.0671337,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1837,
+	"treeId": 14361
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.5,
+	"lat": 49.2579713,
+	"lon": -123.0668701,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1857,
+	"treeId": 14362
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.25,
+	"lat": 49.257721,
+	"lon": -123.0670411,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1844,
+	"treeId": 14363
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 14.0,
+	"lat": 49.2574629,
+	"lon": -123.0669003,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1846,
+	"treeId": 14364
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.5,
+	"lat": 49.2575408,
+	"lon": -123.0667789,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1860,
+	"treeId": 14365
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.0,
+	"lat": 49.2579874,
+	"lon": -123.066743,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1861,
+	"treeId": 14366
+},
+{
+	"commonName": "PURPLE PLUM",
+	"diameter": 3.0,
+	"lat": 49.257845,
+	"lon": -123.0655698,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1909,
+	"treeId": 14368
+},
+{
+	"commonName": "EUROPEAN WHITE BIRCH",
+	"diameter": 10.0,
+	"lat": 49.2576018,
+	"lon": -123.0656663,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 14TH AV",
+	"streetNumber": 1918,
+	"treeId": 14371
+},
+{
+	"commonName": "KOBUS MAGNOLIA ",
+	"diameter": 3.0,
+	"lat": 49.2346983,
+	"lon": -123.0619587,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "GLADSTONE ST",
+	"streetNumber": 5510,
+	"treeId": 14820
+},
+{
+	"commonName": "RED SHINE FIELD MAPLE ",
+	"diameter": 4.25,
+	"lat": 49.2346127,
+	"lon": -123.062384,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 39TH AV",
+	"streetNumber": 2192,
+	"treeId": 14842
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 14.0,
+	"lat": 49.2569794,
+	"lon": -123.067597,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 15TH AV",
+	"streetNumber": 1815,
+	"treeId": 15669
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 15.25,
+	"lat": 49.2569863,
+	"lon": -123.0669087,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 15TH AV",
+	"streetNumber": 1845,
+	"treeId": 15675
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 15.5,
+	"lat": 49.2569856,
+	"lon": -123.0668105,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 15TH AV",
+	"streetNumber": 1855,
+	"treeId": 15677
+},
+{
+	"commonName": "NIGHT PURPLE LEAF PLUM",
+	"diameter": 3.0,
+	"lat": 49.2438178,
+	"lon": -123.0759037,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "KNIGHT ST",
+	"streetNumber": 4586,
+	"treeId": 16155
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2497146,
+	"lon": -123.0674812,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "COMMERCIAL ST",
+	"streetNumber": 3968,
+	"treeId": 16477
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2495216,
+	"lon": -123.0674885,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "COMMERCIAL ST",
+	"streetNumber": 3990,
+	"treeId": 16626
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2493498,
+	"lon": -123.0674915,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "COMMERCIAL ST",
+	"streetNumber": 4012,
+	"treeId": 16765
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2491641,
+	"lon": -123.067492,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "BEATRICE ST",
+	"streetNumber": 4031,
+	"treeId": 16771
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2482524,
+	"lon": -123.0671131,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "BEATRICE ST",
+	"streetNumber": 4045,
+	"treeId": 16789
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2488244,
+	"lon": -123.0676701,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "COMMERCIAL ST",
+	"streetNumber": 4062,
+	"treeId": 16797
+},
+{
+	"commonName": "SCARLET OAK",
+	"diameter": 3.5,
+	"lat": 49.2560825,
+	"lon": -123.0853199,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 916,
+	"treeId": 16933
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2561989,
+	"lon": -123.0871554,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 820,
+	"treeId": 16934
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 17.0,
+	"lat": 49.256166,
+	"lon": -123.0870733,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 830,
+	"treeId": 16936
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 18.0,
+	"lat": 49.2561257,
+	"lon": -123.0868428,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 840,
+	"treeId": 16938
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2561757,
+	"lon": -123.086395,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 860,
+	"treeId": 16940
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 5.0,
+	"lat": 49.2563577,
+	"lon": -123.0859656,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 876,
+	"treeId": 16941
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 11.5,
+	"lat": 49.2563544,
+	"lon": -123.0857313,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 888,
+	"treeId": 16942
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2561561,
+	"lon": -123.0851084,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 918,
+	"treeId": 16951
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 18.5,
+	"lat": 49.2560778,
+	"lon": -123.0849098,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 930,
+	"treeId": 16953
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2561422,
+	"lon": -123.0846899,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 938,
+	"treeId": 16955
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 17.0,
+	"lat": 49.2560706,
+	"lon": -123.0842866,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 956,
+	"treeId": 16958
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2563302,
+	"lon": -123.0842027,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 964,
+	"treeId": 16960
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 16.0,
+	"lat": 49.2561723,
+	"lon": -123.0838578,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 988,
+	"treeId": 16965
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2561546,
+	"lon": -123.0825679,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1050,
+	"treeId": 16985
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2560468,
+	"lon": -123.0823495,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1056,
+	"treeId": 16991
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 14.0,
+	"lat": 49.2561166,
+	"lon": -123.0819884,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1076,
+	"treeId": 16993
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 17.5,
+	"lat": 49.256025,
+	"lon": -123.0814465,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1116,
+	"treeId": 17000
+},
+{
+	"commonName": "SHIROFUGEN CHERRY",
+	"diameter": 9.0,
+	"lat": 49.2562188,
+	"lon": -123.0813063,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1126,
+	"treeId": 17003
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 30.0,
+	"lat": 49.2560705,
+	"lon": -123.0808402,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1146,
+	"treeId": 17005
+},
+{
+	"commonName": "BLACK WALNUT",
+	"diameter": 29.0,
+	"lat": 49.2560815,
+	"lon": -123.0806528,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1162,
+	"treeId": 17006
+},
+{
+	"commonName": "SCHWEDLER NORWAY MAPLE",
+	"diameter": 18.5,
+	"lat": 49.2560681,
+	"lon": -123.0804353,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1166,
+	"treeId": 17007
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 12.0,
+	"lat": 49.256011,
+	"lon": -123.0802111,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1176,
+	"treeId": 17008
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.0,
+	"lat": 49.2561332,
+	"lon": -123.0800531,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1182,
+	"treeId": 17009
+},
+{
+	"commonName": "ROUND LEAF BEECH",
+	"diameter": 3.0,
+	"lat": 49.2560787,
+	"lon": -123.0800057,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1188,
+	"treeId": 17010
+},
+{
+	"commonName": "PISSARD PLUM",
+	"diameter": 13.0,
+	"lat": 49.2559927,
+	"lon": -123.0784912,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1284,
+	"treeId": 17015
+},
+{
+	"commonName": "ENGLISH HAWTHORN",
+	"diameter": 8.5,
+	"lat": 49.2562257,
+	"lon": -123.0777259,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 16TH AV",
+	"streetNumber": 1320,
+	"treeId": 17018
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 33.0,
+	"lat": 49.2559723,
+	"lon": -123.0663129,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "VICTORIA DRIVE",
+	"streetNumber": 3215,
+	"treeId": 17032
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 24.0,
+	"lat": 49.255184,
+	"lon": -123.0848478,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 928,
+	"treeId": 18130
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 19.0,
+	"lat": 49.2557015,
+	"lon": -123.0847304,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 935,
+	"treeId": 18131
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 22.0,
+	"lat": 49.2555968,
+	"lon": -123.083013,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1023,
+	"treeId": 18160
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 25.8,
+	"lat": 49.2556593,
+	"lon": -123.0827899,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1035,
+	"treeId": 18161
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 23.0,
+	"lat": 49.2556563,
+	"lon": -123.0825865,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1045,
+	"treeId": 18162
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 20.5,
+	"lat": 49.2555479,
+	"lon": -123.0821952,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1065,
+	"treeId": 18164
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 22.5,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1186,
+	"treeId": 18167
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 11.0,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1112,
+	"treeId": 18168
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 10.0,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1118,
+	"treeId": 18170
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 10.5,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1132,
+	"treeId": 18171
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 12.0,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1144,
+	"treeId": 18172
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 9.0,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1156,
+	"treeId": 18174
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 6.5,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1168,
+	"treeId": 18175
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 11.5,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1176,
+	"treeId": 18177
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 11.0,
+	"lat": 49.2556439,
+	"lon": -123.0814795,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1111,
+	"treeId": 18178
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 16.0,
+	"lat": 49.2555569,
+	"lon": -123.0810766,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1131,
+	"treeId": 18182
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 13.5,
+	"lat": 49.2555744,
+	"lon": -123.0770214,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1335,
+	"treeId": 18201
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 14.0,
+	"lat": 49.2552296,
+	"lon": -123.0772467,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1336,
+	"treeId": 18202
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 17.0,
+	"lat": 49.2555669,
+	"lon": -123.0767497,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1355,
+	"treeId": 18204
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 14.0,
+	"lat": 49.2551853,
+	"lon": -123.0769914,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1356,
+	"treeId": 18205
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 15.0,
+	"lat": 49.2551854,
+	"lon": -123.0766498,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1360,
+	"treeId": 18206
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 14.0,
+	"lat": 49.2554637,
+	"lon": -123.0876586,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1380,
+	"treeId": 18207
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 15.0,
+	"lat": 49.2555621,
+	"lon": -123.0766146,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1365,
+	"treeId": 18208
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 18.25,
+	"lat": 49.2554414,
+	"lon": -123.0764939,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1371,
+	"treeId": 18209
+},
+{
+	"commonName": "COMMON APPLE",
+	"diameter": 16.0,
+	"lat": 49.2555608,
+	"lon": -123.0762016,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1391,
+	"treeId": 18210
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 13.0,
+	"lat": 49.2553426,
+	"lon": -123.075873,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1411,
+	"treeId": 18211
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 9.5,
+	"lat": 49.2551051,
+	"lon": -123.0749276,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1430,
+	"treeId": 18222
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 9.5,
+	"lat": 49.2555994,
+	"lon": -123.0749141,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1433,
+	"treeId": 18223
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2551008,
+	"lon": -123.0747146,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1438,
+	"treeId": 18224
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 12.5,
+	"lat": 49.2553745,
+	"lon": -123.0751754,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 17TH AV",
+	"streetNumber": 1445,
+	"treeId": 18225
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 21.0,
+	"lat": 49.2545741,
+	"lon": -123.0857112,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1001,
+	"treeId": 18788
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 24.0,
+	"lat": 49.2545741,
+	"lon": -123.0857112,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1037,
+	"treeId": 18794
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2544313,
+	"lon": -123.0832902,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1006,
+	"treeId": 18798
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2542437,
+	"lon": -123.0827979,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1036,
+	"treeId": 18801
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 19.0,
+	"lat": 49.2543425,
+	"lon": -123.0824015,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1066,
+	"treeId": 18803
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 10.5,
+	"lat": 49.2543427,
+	"lon": -123.0822991,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1076,
+	"treeId": 18804
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 5.0,
+	"lat": 49.2542862,
+	"lon": -123.0821079,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1086,
+	"treeId": 18805
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 12.0,
+	"lat": 49.2544769,
+	"lon": -123.0797064,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1101,
+	"treeId": 18806
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 18.25,
+	"lat": 49.2543176,
+	"lon": -123.081553,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1104,
+	"treeId": 18817
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 19.0,
+	"lat": 49.2542153,
+	"lon": -123.0812724,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1122,
+	"treeId": 18821
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 14.0,
+	"lat": 49.2543148,
+	"lon": -123.0811892,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1130,
+	"treeId": 18822
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 21.0,
+	"lat": 49.2542096,
+	"lon": -123.0808622,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1146,
+	"treeId": 18824
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 13.75,
+	"lat": 49.2543126,
+	"lon": -123.0809858,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1138,
+	"treeId": 18825
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 15.5,
+	"lat": 49.2542085,
+	"lon": -123.0807268,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1150,
+	"treeId": 18826
+},
+{
+	"commonName": "LITTLE-LEAF LINDEN",
+	"diameter": 12.5,
+	"lat": 49.2542067,
+	"lon": -123.0805894,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1160,
+	"treeId": 18827
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 16.25,
+	"lat": 49.2543412,
+	"lon": -123.080418,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1170,
+	"treeId": 18828
+},
+{
+	"commonName": "BASSWOOD",
+	"diameter": 16.0,
+	"lat": 49.2541994,
+	"lon": -123.0801688,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1184,
+	"treeId": 18829
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 38.0,
+	"lat": 49.254617,
+	"lon": -123.0791264,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1225,
+	"treeId": 18833
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 31.0,
+	"lat": 49.2541815,
+	"lon": -123.0790749,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1228,
+	"treeId": 18834
+},
+{
+	"commonName": "SEIBOLDI CHERRY",
+	"diameter": 31.5,
+	"lat": 49.2541789,
+	"lon": -123.0789361,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1236,
+	"treeId": 18836
+},
+{
+	"commonName": "SEIBOLDI CHERRY",
+	"diameter": 27.0,
+	"lat": 49.2546978,
+	"lon": -123.0786544,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1249,
+	"treeId": 18838
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2542792,
+	"lon": -123.0786979,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1250,
+	"treeId": 18839
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 31.0,
+	"lat": 49.2542823,
+	"lon": -123.0784893,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1260,
+	"treeId": 18840
+},
+{
+	"commonName": "UKON JAPANESE CHERRY",
+	"diameter": 27.5,
+	"lat": 49.2541725,
+	"lon": -123.0783836,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1270,
+	"treeId": 18841
+},
+{
+	"commonName": "SEIBOLDI CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2546935,
+	"lon": -123.078381,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1271,
+	"treeId": 18842
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 34.0,
+	"lat": 49.2546914,
+	"lon": -123.0782442,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1285,
+	"treeId": 18843
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 40.0,
+	"lat": 49.254332,
+	"lon": -123.0782197,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1286,
+	"treeId": 18844
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 30.0,
+	"lat": 49.254685,
+	"lon": -123.0776705,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1305,
+	"treeId": 18846
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2543054,
+	"lon": -123.0777231,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1306,
+	"treeId": 18849
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 28.0,
+	"lat": 49.2546819,
+	"lon": -123.0775332,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1311,
+	"treeId": 18852
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 25.0,
+	"lat": 49.2541579,
+	"lon": -123.0774196,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1316,
+	"treeId": 18853
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 23.0,
+	"lat": 49.2546825,
+	"lon": -123.0773944,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1317,
+	"treeId": 18854
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 27.0,
+	"lat": 49.2543223,
+	"lon": -123.0772455,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1324,
+	"treeId": 18855
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 24.75,
+	"lat": 49.2545915,
+	"lon": -123.0771436,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1329,
+	"treeId": 18856
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2541533,
+	"lon": -123.0771427,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1330,
+	"treeId": 18857
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 3.0,
+	"lat": 49.2543279,
+	"lon": -123.0770833,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1336,
+	"treeId": 18859
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 22.5,
+	"lat": 49.2546757,
+	"lon": -123.0767086,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1349,
+	"treeId": 18861
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2541433,
+	"lon": -123.0765895,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1354,
+	"treeId": 18862
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2546007,
+	"lon": -123.076617,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1357,
+	"treeId": 18863
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 16.0,
+	"lat": 49.2546172,
+	"lon": -123.0764619,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1365,
+	"treeId": 18865
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 23.0,
+	"lat": 49.2541172,
+	"lon": -123.0752099,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1412,
+	"treeId": 18868
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.0,
+	"lat": 49.2546808,
+	"lon": -123.0749688,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1425,
+	"treeId": 18869
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 17.5,
+	"lat": 49.2542637,
+	"lon": -123.0749385,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1426,
+	"treeId": 18870
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.5,
+	"lat": 49.2541688,
+	"lon": -123.0747869,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1432,
+	"treeId": 18872
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 24.0,
+	"lat": 49.25411,
+	"lon": -123.074559,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1442,
+	"treeId": 18873
+},
+{
+	"commonName": "COMMOM CHOKECHERRY",
+	"diameter": 24.5,
+	"lat": 49.2544984,
+	"lon": -123.0745398,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1453,
+	"treeId": 18874
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 34.0,
+	"lat": 49.2541026,
+	"lon": -123.0742512,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1454,
+	"treeId": 18875
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2546737,
+	"lon": -123.0743633,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1455,
+	"treeId": 18878
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 20.0,
+	"lat": 49.2545464,
+	"lon": -123.0739729,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1461,
+	"treeId": 18879
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 15.5,
+	"lat": 49.2545655,
+	"lon": -123.0738438,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1467,
+	"treeId": 18880
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 25.5,
+	"lat": 49.2541747,
+	"lon": -123.0736644,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1474,
+	"treeId": 18881
+},
+{
+	"commonName": "MAZZARD CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2545658,
+	"lon": -123.0734736,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1481,
+	"treeId": 18882
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 26.0,
+	"lat": 49.2542007,
+	"lon": -123.0734605,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1484,
+	"treeId": 18884
+},
+{
+	"commonName": "KWANZAN FLOWERING CHERRY",
+	"diameter": 24.0,
+	"lat": 49.2540884,
+	"lon": -123.0732867,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1490,
+	"treeId": 18885
+},
+{
+	"commonName": "PINK PERFECTION CHERRY",
+	"diameter": 15.0,
+	"lat": 49.2545307,
+	"lon": -123.0732158,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1495,
+	"treeId": 18888
+},
+{
+	"commonName": "EUROPEAN HORNBEAM",
+	"diameter": 9.5,
+	"lat": 49.2544762,
+	"lon": -123.0726639,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1503,
+	"treeId": 18889
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 21.5,
+	"lat": 49.2540885,
+	"lon": -123.0724451,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1534,
+	"treeId": 18893
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 22.0,
+	"lat": 49.2544851,
+	"lon": -123.0721823,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1535,
+	"treeId": 18894
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 20.5,
+	"lat": 49.2545597,
+	"lon": -123.0720006,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1545,
+	"treeId": 18895
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 20.3,
+	"lat": 49.2541725,
+	"lon": -123.0723193,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1548,
+	"treeId": 18896
+},
+{
+	"commonName": "EUROPEAN HORNBEAM",
+	"diameter": 16.0,
+	"lat": 49.2545575,
+	"lon": -123.0718383,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1553,
+	"treeId": 18897
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 14.0,
+	"lat": 49.2540886,
+	"lon": -123.0721689,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1560,
+	"treeId": 18898
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 17.5,
+	"lat": 49.2540892,
+	"lon": -123.0720329,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1572,
+	"treeId": 18899
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 22.0,
+	"lat": 49.2545022,
+	"lon": -123.0715688,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1573,
+	"treeId": 18900
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 22.0,
+	"lat": 49.2545476,
+	"lon": -123.0712462,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1593,
+	"treeId": 18905
+},
+{
+	"commonName": "LAWSON CYPRESS/PORT ORFORD CED",
+	"diameter": 21.0,
+	"lat": 49.2543279,
+	"lon": -123.0709887,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1604,
+	"treeId": 18907
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 15.0,
+	"lat": 49.254485,
+	"lon": -123.0708019,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1605,
+	"treeId": 18911
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 7.5,
+	"lat": 49.2542182,
+	"lon": -123.0696034,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1686,
+	"treeId": 18915
+},
+{
+	"commonName": "CRIMEAN LINDEN",
+	"diameter": 15.0,
+	"lat": 49.2541213,
+	"lon": -123.0689542,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1730,
+	"treeId": 18919
+},
+{
+	"commonName": "RED MAPLE",
+	"diameter": 13.0,
+	"lat": 49.2541909,
+	"lon": -123.0683958,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 1770,
+	"treeId": 18923
+},
+{
+	"commonName": "EUROPEAN BEECH",
+	"diameter": 10.0,
+	"lat": 49.2533029,
+	"lon": -123.0571727,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "E 18TH AV",
+	"streetNumber": 2386,
+	"treeId": 18931
+},
+{
+	"commonName": "GLOBE HORNBEAM",
+	"diameter": 3.0,
+	"lat": 49.2484759,
+	"lon": -123.067562,
+	"neighbourhood": "KENSINGTON-CEDAR COTTAGE",
+	"street": "COMMERCIAL ST",
+	"streetNumber": 4096,
+	"treeId": 19219
+}]}

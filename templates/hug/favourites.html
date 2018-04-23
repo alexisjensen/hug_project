@@ -1,0 +1,139 @@
+{% extends 'hug/base.html' %}
+{% load staticfiles %}
+
+{% block title %}huggable favourites{% endblock %}
+
+
+{% block body_block %}
+
+
+
+<p class="favs" id="haha" style="display:none;"><font color="red">Tree UNFAVORED</font></p>
+
+<div class="row">
+       <div class="col-xs-10 col-sm-8 col-md-6 col-lg-6 col-xs-pull-1 col-xs-push-1">
+
+
+
+        <h1 class="favs"> favourites </h1>
+
+
+
+        {% if trees %}
+
+
+        {% for tree in trees %}
+
+
+        <h4 class="favs"><img class="favs" src="{{ MEDIA_URL }}/tree_big.png" alt="tree"><a href="/hug/tree/{{ tree.treeId }}">
+            tree {{tree.treeId }}</a>
+
+            {% if 10 >= tree.diameter %}
+            <small class="favs">is a small cuddle</small>
+            {% endif %}
+
+
+            {% if 20 >= tree.diameter and tree.diameter > 10 %}
+            <small>is a medium embrace</small>
+            {% endif %}
+
+            {% if tree.diameter > 20 %}
+            <small>is a large nestle</small>
+            {% endif %}
+        </h4>
+
+
+        <p class="favs">{{ tree.commonName|title }}</p>
+
+        <p class="favs">{{ tree.diameter|floatformat:"0" }} inches in diameter</p>
+
+        <p class="favs">{{ tree.streetNumber }} {{ tree.street|title }}</p>
+
+        <p class="favs">{{ tree.neighbourhood|title }}</p>
+
+        <a href="{% url 'delete_fav' entry_pk=tree.treeId %}" data-toggle="tooltip" data-placement="left" title="break up with the tree" class="btn btn-sm btn-default favs"><span class="glyphicon glyphicon-heart pink"></span></a>
+
+
+
+
+        {% endfor %}
+        {% endif %}
+
+
+
+        {% if foodtrees %}
+
+
+        {% for foodtree in foodtrees %}
+        <span class="text-nowrap"><h4 class="favs text"><img class="favs" src="{{ MEDIA_URL }}/fruit_tree_big.png" alt="hungry hug"><a href="/hug/foodtree/{{ foodtree.slug }}"> {{ foodtree.name }}</a>
+
+            <small>is hungry hugs</small>
+
+        </h4></span>
+
+        <p class="favs">{{ foodtree.address|title }}</p>
+
+        <p class="favs">There are {{ foodtree.numOfFT|floatformat:"0" }} hungry hugs here.</p>
+        {% if foodtree.typesOfFT = "" %}
+        <p class="favs">We don't know what you can fill your belly with here.</p>
+        {% else %}
+        <p class="favs">You can fill your belly with {{ foodtree.typesOfFT|lower }}. </p>
+        {% endif %}
+        <p class="favs">{{ foodtree.neighbourhood|title }}</p>
+
+        <a href="{% url 'delete_favf' entry_pk=foodtree.slug %}" data-toggle="tooltip" data-placement="left" title="break up with hungry hugs" class="btn btn-sm btn-default favs" id="button1"><span class="glyphicon glyphicon-heart pink"></span></a>
+
+          <script>
+           if(document.getElementById('button1').clicked == true)
+        {
+        <div id="paperuploaded">
+            <p class="favs">FoodTree {{foodtree.slug}} UNFAVOURED </p>
+        </div>
+           }
+           </script>
+        {% endfor %}
+        {% endif %}
+
+
+        {% if parks %}
+
+
+        {% for park in parks %}
+      <span class="text-nowrap"> <h4 class="favs"><img class="favs" src="{{ MEDIA_URL }}/center_big.png" alt="centre of love"><a href="/hug/park/{{ park.parkId }}"> {{ park.name }}</a>
+
+            <small>is a center of love</small>
+
+        </h4></span>
+
+        <p class="favs">{{ park.address|title }}</p>
+
+        <p class="favs">{{ park.neighbourhood|title }}</p>
+
+        <a href="{% url 'delete_favp' entry_pk=park.parkId %}" data-toggle="tooltip" data-placement="left" title="break up with center of love" class="btn btn-sm btn-default favs" id="button2"><span class="glyphicon glyphicon-heart pink"></span></a>
+           <script>
+           if(document.getElementById('button2').clicked == true)
+        {
+        <div id="paperuploaded">
+            <p class="favs" ><font color="red">{{park.name}}</font> UNFAVOURED </p>
+        </div>
+           }
+           </script>
+        {% endfor %}
+        {% endif %}
+
+        {% if not trees and not parks and not foodtrees %}
+
+        <h4 class="hello">You have not loved any trees yet :( </h4>
+
+        {% endif %}
+
+    </div>
+</div>
+
+<!-- Tooltip for heart button-->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();
+});
+</script>
+{% endblock %}

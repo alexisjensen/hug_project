@@ -1,0 +1,4 @@
+YearCreated,Name,StreetNumber,StreetDirection,StreetName,StreetType,MergedAddress,Latitude,Longitude,NumberOfPlots,NumberOfFoodTrees,Notes,FoodTreeVarieties,OtherFoodAssets,Jurisdiction,StewardOrManagingOrganization,PublicE-mail,Website,Last update,15-Feb
+1978,Trout Park,123,,Main,St,"123 Main St, Vancouver BC",49.220271,-123.0293224,0,17,,"Apple, Orange",,Parks,,,,,
+2000,Poopy Garden,456,,Foo,Av,"456 Foo Av, Vancouver BC",49.2739359,-123.083385,200,,,,,Parks,,,,,
+2015,Fart Garden,789,,Bar,Av,"789 Bar Av, Vancouver BC",49.3,-123.1,200,Y,,Cherry,,Parks,,,,,

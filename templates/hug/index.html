@@ -1,0 +1,471 @@
+{% extends 'hug/base.html' %}
+{% load static %}
+
+
+{% block title %}hug a tree{% endblock %}
+
+{% block body_block %}
+
+
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvEzQlFFbzlZGS2LvkKnp9Nbpd9syZhtk">
+</script>
+<script type="text/javascript">
+   var gmarkers1 = [];
+   var gmarkers2 = [];
+   var gmarkers3 = [];
+   var gmarkers4 = [];
+   var gmarkers5 = [];
+   var gmarkers8 = [];
+   var gmarkers9 = [];
+   var gmarkers10 = [];
+   var gm = [];
+   var gm1 = [];
+   var onceFilteredMarkers = [];
+    function initialize() {
+        var mapDiv = document.getElementById('map-canvas');
+    map = new google.maps.Map(mapDiv, {
+      center: new google.maps.LatLng(49.25,-123.133333),
+      zoom: 12,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+    google.maps.event.addListenerOnce(map, 'tilesloaded', setMarkers);
+  }
+     function setMarkers(){
+     {% for park in parks %}
+     var point1 = new google.maps.LatLng({{park.lat}},{{park.lon}});
+        var image2 = '{{ MEDIA_URL }}/center.png';
+        var image1 = '{{ MEDIA_URL }}/tree_fav.png';
+            var marker1 = new google.maps.Marker({
+            position: point1,
+            map: map,
+            kind: 'sad',
+            category: '{{park.neighbourhood}}',
+           {% if park in parkss%}
+           icon: image1,
+           {% else %}
+           icon: image2
+           {% endif %}
+        });
+        gmarkers4.push(marker1);
+        marker1['infowindow'] = new google.maps.InfoWindow({
+                     content: " "
+        });
+        google.maps.event.addListener(marker1, 'click', function() {
+        this['infowindow'].setContent(
+        '<h3 class="hello"><a href="{% url 'park' park.parkId %}">{{park.parkId}}</a></h3>'+
+        '<p>{{park.name|title}}<p>'+
+        '<p>{{park.address|title}}<p>'+
+        '<p>{{park.neighbourhood|title}}<p>'+
+        {% if park in parkss%}
+        '<a href="{% url 'delete_favp' entry_pk=park.parkId %}" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-heart pink"></span></a>'
+        {% else %}
+        '<a href="{% url 'add_favp' entry_pk=park.parkId %}" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-heart-empty pink"></span></a>'
+        {% endif %}
+        );
+        this['infowindow'].open(map, this);
+        });
+        {% endfor %}
+        {% for foodtree in food_trees %}
+        var point2 = new google.maps.LatLng({{foodtree.lat}},{{foodtree.lon}});
+        var image3 = '{{ MEDIA_URL }}/fruit_tree.png';
+        var image1 = '{{ MEDIA_URL }}/tree_fav.png';
+            var marker2 = new google.maps.Marker({
+            position: point2,
+            map: map,
+            kind: 'happy',
+            category: '{{foodtree.neighbourhood}}',
+           {% if foodtree in foodtreess%}
+           icon: image1,
+           {% else %}
+           icon: image3
+           {% endif %}
+        });
+        gmarkers5.push(marker2);
+        marker2['infowindow'] = new google.maps.InfoWindow({
+                     content: " "
+        });
+        google.maps.event.addListener(marker2, 'click', function() {
+        this['infowindow'].setContent(
+        '<h3 class="hello"><a href="{% url 'foodtree' foodtree.slug %}">{{foodtree.name|title}}</a></h3>'+
+        '<p>{{foodtree.address|title}}</p>'+
+        '<p>{{foodtree.neighbourhood|title}}</p>'+
+        {% if foodtree in foodtreess%}
+        '<a href="{% url 'delete_favf' entry_pk=foodtree.slug %}" class=" btn-sm btn-default"><span class="glyphicon glyphicon-heart pink"></span></a>'
+        {% else %}
+        '<a href="{% url 'add_favf' entry_pk=foodtree.slug %}" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-heart-empty pink"></span></a>'
+        {% endif %}
+        );
+        this['infowindow'].open(map, this);
+        });
+        {% endfor %}
+        clearMarkers();
+        clearMarkers1();
+        clearMarkers2();
+     }
+filterMarkers = function (category) {
+    clearMarkers();
+	gmarkers1 = [];
+    if(category==""){
+		document.getElementById("mood").style.display="none";
+		document.getElementById("SPECIES").style.display="none";
+    }else{
+		document.getElementById("mood").style.display="block";
+		document.getElementById("SPECIES").style.display="block";
+    }
+    var split = category.split(",");
+	var v1 = split[0];
+    var v2 = split[1];
+	var client = new XMLHttpRequest();
+	client.open('Get', '{{ MEDIA_URL }}/' + v1 + '.txt');
+
+	client.onreadystatechange = function() {
+		nHoodString = client.responseText;
+
+		obj = JSON.parse(nHoodString);
+
+		if(obj.trees.length > 0){
+			len = obj.trees.length;
+
+			for(var l=0; l<len; l++){
+
+				var cat = obj['trees'][l]['neighbourhood'];
+				var ki = obj['trees'][l]['diameter'];
+				var tit = obj['trees'][l]['treeId'];
+				var speci = obj['trees'][l]['commonName'];
+				var strN = obj['trees'][l]['streetNumber'];
+				var stre = obj['trees'][l]['street'];
+				var lati = obj['trees'][l]['lat'];
+				var longi = obj['trees'][l]['lon'];
+
+				var image = '{{ MEDIA_URL }}/tree.png';
+
+				{% for tree in treess%}
+					if({{tree.treeId}} == tit){
+						image = '{{ MEDIA_URL }}/tree_fav.png';
+					}
+				{% endfor %}
+				var point2 = new google.maps.LatLng(lati, longi);
+
+				var contentOf = '<h3><p><a href="'+tString+'">Tree '+String(tit)+'</a></p></h3>'+
+						'<p>'+String(ki)+' inches in diameter</p>'+
+						'<p>'+speci+'</p>'+
+						'<p>'+String(strN)+' '+stre+'</p>'+
+						'<a href="'+urlString+'" class="btn btn-success"><span class="glyphicon glyphicon-heart"></span></a>'
+
+				var urlString = "/hug/t/" + String(tit);
+				var tString = "/hug/tree/" + String(tit);
+				{% for tree in treess%}
+					if({{tree.treeId}} == tit){
+						 urlString = "/hug/d/" + String(tit);
+					}
+				{% endfor %}
+				var pink = "-empty";
+				{% for tree in treess%}
+					if({{tree.treeId}} == tit){
+						 pink = "";
+					}
+				{% endfor %}
+
+				var marker = new google.maps.Marker({
+					position: point2,
+					map: map,
+					title: String(tit),
+					icon: image,
+					kind: ki,
+					species: speci,
+					uStr: urlString,
+					tStr: tString,
+					pinks: pink,
+					numStr: String(strN),
+					streF: stre
+				});
+
+
+				gmarkers1.push(marker);
+				map.setCenter(gmarkers1[1].position);
+            var urlString = "/hug/t/" + String(tit);
+            var tString = "/hug/tree/" + String(tit);
+            marker['infowindow']  = new google.maps.InfoWindow({
+               content: " "
+            });
+            google.maps.event.addListener(marker, 'click', function() {
+            this['infowindow'].setContent(
+            '<h3 class="hello"><p><a href="'+this.tStr+'">tree '+this.title+'</a></p></h3>'+
+            '<p>'+this.kind+' inches in diameter</p>'+
+            '<p>'+this.species.toProperCase()+'</p>'+
+            '<p>'+this.numStr+' '+this.streF.toProperCase()+'</p>'+
+            '<a href="'+this.uStr+'" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-heart'+this.pinks+' pink"></span></a>'
+               );
+               this['infowindow'].open(map, this);
+            });
+            google.maps.event.addListener(marker, 'mouseover', function() {
+               // this['infowindow'].open(map, this);
+            });
+            google.maps.event.addListener(marker, 'mousedown', function() {
+               this['infowindow'].close(map, this);
+            });
+         }
+      }
+   }
+	client.send();
+    gmarkers8 = [];
+    for (t = 0; t < {{parks|length}}; t++) {
+		markery1 = gmarkers4[t];
+         if (markery1.category == v2) {
+            gmarkers8.push(markery1);
+         }else{
+			markery1.setVisible(false);
+         }
+    }
+    for (u = 0; u < {{food_trees|length}}; u++) {
+		markery = gmarkers5[u];
+        if (markery.category == v1) {
+            gmarkers8.push(markery);
+        }else{
+			markery.setVisible(false);
+        }
+    }
+
+
+   }
+   filterMarker = function (kind) {
+    showMarkers();
+    showMarkers1();
+    showMarkers2();
+        var split = kind.split(",");
+        var v1 = split[0];
+        var v2 = split[1];
+      for (h = 0; h < gmarkers1.length; h++) {
+      marker = gmarkers1[h];
+        var xy = parseInt(split[0]);
+        var xz = parseInt(split[1]);
+        markind = parseInt(marker.kind);
+         if (markind > xy && markind <= xz) {
+            marker.setVisible(true);
+         }
+         else {
+            marker.setVisible(false);
+         }
+      }
+    for(k=0; k< gmarkers8.length; k++){
+    markert = gmarkers8[k];
+    if(markert.kind == v2 && v2 == 'happy'){
+    showMarkers2();
+    markert.setVisible(true);
+    clearMarkers();
+    }else if(markert.kind == v2 && v2 == 'sad'){
+    showMarkers1();
+    markert.setVisible(true);
+    clearMarkers();
+    }else{
+    markert.setVisible(false);
+    }
+    }
+    }
+   filterMarkery = function(){
+    showMarkers();
+    clearMarkers1();
+    clearMarkers2();
+    var obj = myForm.specie,
+        options=obj.options,
+        gmarkers3 = [];
+    for(i=0; i<options.length; i++){
+     if(options[i].selected){
+       for (j = 0; j < gmarkers1.length; j++) {
+       marker = gmarkers1[j];
+         if (marker.species == options[i].value && options[i].value != "all") {
+             marker.setVisible(true);
+            gmarkers3.push(marker);
+         }else if(options[i].value == "all"){
+         marker.setVisible(true);
+         }else{
+         marker.setVisible(false);
+         }
+      }
+      for(k=0; k<gmarkers3.length; k++){
+      markery = gmarkers3[k];
+      markery.setVisible(true);
+      }
+     }
+    }
+    if(gmarkers3.length == 0 && options[0].selected == false){
+      alert("No tree type in the neighbourhood, it is time to plant one!");
+      }else if(options[0].selected == true){
+      }
+   }
+   function setAllMap(map) {
+    for (var i = 0; i < gmarkers1.length; i++) {
+    gmarkers1[i].setMap(map);
+    }
+   }
+   function setAllMap1(map) {
+    for (var i = 0; i < gmarkers4.length; i++) {
+    gmarkers4[i].setMap(map);
+    }
+   }
+   function setAllMap2(map) {
+    for (var i = 0; i < gmarkers5.length; i++) {
+    gmarkers5[i].setMap(map);
+    }
+   }
+   function clearMarkers() {
+        setAllMap(null);
+     }
+     function clearMarkers1() {
+        setAllMap1(null);
+     }
+     function clearMarkers2() {
+        setAllMap2(null);
+     }
+     function showMarkers() {
+      setAllMap(map);
+     }
+     function showMarkers1() {
+      setAllMap1(map);
+     }
+     function showMarkers2() {
+      setAllMap2(map);
+     }
+   google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+<script>
+    unique = function(origArr) {
+  {% for tree in trees %}
+   gm.push('{{tree.commonName}}');
+   {% endfor %}
+    var newArr = [],
+        origLen = origArr.length,
+        found, x, y;
+    for (x = 0; x < origLen; x++) {
+        found = undefined;
+        for (y = 0; y < newArr.length; y++) {
+            if (origArr[x] === newArr[y]) {
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            newArr.push(origArr[x]);
+        }
+    }
+    return newArr;
+}
+</script>
+<div class="row">
+    <div class="col-lg-4 col-md-5 col-sm-5">
+        <div class="panel panel-default">
+            <div class="panel-body">
+                <select id="neighbourhood" class="form-control" onchange="filterMarkers(this.value);">
+                    <option value="">choose a neighbourhood</option>
+                    <option value="ARBUTUS RIDGE,Arbutus Ridge">arbutus ridge</option>
+                    <option value="DOWNTOWN,Downtown">downtown</option>
+                    <option value="DUNBAR - SOUTHLANDS,Dunbar-Southlands">dunbar southlands</option>
+                    <option value="FAIRVIEW,Fairview">fairview</option>
+                    <option value="GRANDVIEW - WOODLANDS,Grandview-Woodland">grandview woodlands</option>
+                    <option value="HASTINGS - SUNRISE,Hastings-Sunrise">hastings sunrise</option>
+                    <option value="KENSINGTON-CEDAR COTTAGE,Kensington-Cedar Cottage">kensington cedar cottage</option>
+                    <option value="KERRISDALE,Kerrisdale">kerrisdale</option>
+                    <option value="KILLARNEY,Killarney">killarney</option>
+                    <option value="KITSILANO,Kitsilano">kitsilano</option>
+                    <option value="MARPOLE,Marpole">marpole</option>
+                    <option value="MOUNT PLEASANT,Mount Pleasant">mount pleasant</option>
+                    <option value="OAKRIDGE,Oakridge">oakridge</option>
+                    <option value="RENFREW - COLLINGWOOD,Renfrew-Collingwood">renfrew collingwood</option>
+                    <option value="RILEY PARK,Riley-Little Mountain">riley park</option>
+                    <option value="SHAUGHNESSY,Shaughnessy">shaughnessy</option>
+                    <option value="SOUTH CAMBIE,South Cambie">south cambie</option>
+                    <option value="STRATHCONA,Strathcona">strathcona</option>
+                    <option value="SUNSET,Sunset">sunset</option>
+                    <option value="VICTORIA - FRASERVIEW,Victoria-Fraserview">victoria fraserview</option>
+                    <option value="WEST END,West End">west end</option>
+                    <option value="WEST POINT GREY,West Point Grey">west point grey</option>
+                </select>
+
+                <div id="mood" style="display: none;">
+                    <select class="form-control" onchange="filterMarker(this.value);">
+                        <option value="0.0,0.0">choose your mood</option>
+                        <option value="0.0,10.0">small cuddle</option>
+                        <option value="10.0,20.0">medium embrace</option>
+                        <option value="20.0,1000.0">large nestle</option>
+                        <option value="0.0,happy">hungry hugs</option>
+                        <option value="0.0,sad">centre of love</option>
+
+                    </select>
+                </div>
+                <form name="myForm" class="form-horizontal" role="form">
+                    <div id="SPECIES" class="form-group" style="display: none;">
+                        <p class="hello select">Press control/command to select multiple types</p>
+                        <select onchange="filterMarkery();" name="specie"
+                                class="selectpicker show-menu-arrow form-control" multiple>
+                            <option value='all'>all trees in the neighbourhood</option>
+                            {% for gm in gms %}
+                            <option value='{{gm}}'>{{gm|lower}}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+     <div class="col-sm-6 col-md-6 col-lg-7 col-md-offset-1 col-lg-offset-1 col-sm-offset-1">
+        <div id="map-canvas"></div>
+        <div class="clearfix visible-xs visible-s"></div>
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                <p><img class="hello tree" src="{{ MEDIA_URL }}/tree_big.png" alt="tree"></p>
+                <h4 class="hello">street tree</h4>
+
+                <p class="hello">Filter based on your mood, ranging from small cuddle to medium embrace to large nestle.</p>
+
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                <p><img class="hello" src="{{ MEDIA_URL }}/fruit_tree_big.png" alt="hungry hug"></p>
+                <h4 class="hello">hungry hugs</h4>
+
+                <p class="hello">Points you to local community gardens that offer a variety of edible hugs.</p>
+
+            </div>
+            <div class="clearfix visible-xs visible-sm"></div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                <p><img class="hello" src="{{ MEDIA_URL }}/center_big.png" alt="centre of love"></p>
+                <h4 class="hello">centre of love</h4>
+
+                <p class="hello">Leads you to a mother-load of trees so you get a huge hugging fix.</p>
+
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                <p><img class="hello fav" src="{{ MEDIA_URL }}/tree_fav_big.png" alt="favourite tree"></p>
+                <h4 class="hello">favourite tree</h4>
+
+                <p class="hello">Lets you visually keep track of all the trees you have hearted.</p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+<input type="hidden" id="refreshed" value="no">
+<script type="text/javascript">
+onload=function(){
+var e=document.getElementById("refreshed");
+if(e.value=="no")e.value="yes";
+else{e.value="no";location.reload();}
+}
+</script>
+
+<script type="text/javascript">
+String.prototype.toProperCase = function () {
+    return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+};
+</script>
+{% endblock %}
+
+<!-- refresh page reference: http://www.webdeveloper.com/forum/showthread.php?137518-How-to-refresh-page-after-clicking-quot-Back-quot-button/ -->
+
+<!--multiple select reference: http://silviomoreto.github.io/bootstrap-select/-->
